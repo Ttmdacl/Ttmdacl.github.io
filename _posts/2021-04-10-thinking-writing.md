@@ -10,11 +10,9 @@ categories: Log Thinking
 
 오랜만에 hugspa님 블로그를 들어갔다
 
-​[어느 글](http://blog.naver.com/hugspa/20012756204)을 보게 되었다.
 
 
-
-생각을 적어주는 기계
+[생각을 적어주는 기계](http://blog.naver.com/hugspa/20012756204)
 
 나에게도 정말 필요한 것 같다
 
