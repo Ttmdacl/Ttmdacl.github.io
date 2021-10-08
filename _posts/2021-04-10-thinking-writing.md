@@ -1,7 +1,7 @@
 ---
 title: "생각을 적어주는 기계, 어려운 글쓰기"
 date: 2021-04-10. 17:10:00
-last_modified_at: 2021-10-05
+last_modified_at: 2021-10-07
 categories: Log Thinking
 ---
 ⚠ **알림** : 이전 블로그에서 썼던 것을 옮겨온 글 입니다. [참고](https://ttmdacl.github.io/log/diary/hello-blog/) ⚠

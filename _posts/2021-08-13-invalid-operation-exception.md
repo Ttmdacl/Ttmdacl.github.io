@@ -1,7 +1,7 @@
 ---
 title: "InvalidOperationException: Collection was modified; enumeration operation may not execute."
 date: 2021-08-13. 22:45:00
-last_modified_at: 2021-10-05
+last_modified_at: 2021-10-07
 categories: Programming Normal
 ---
 ⚠ **알림** : 이전 블로그에서 썼던 것을 옮겨온 글 입니다. [참고](https://ttmdacl.github.io/log/diary/hello-blog/) ⚠
