@@ -1,9 +1,8 @@
 ---
+title: Git Journal Test
 date: 2021-10-21T05:28:21+09:00
 last_modified_at: 2021-10-21T05:43:23+09:00
-title: Git Journal Test
 categories: Log Diary
-modified: 2021-10-21T05:59:58+09:00
 ---
 
 #시도
@@ -18,4 +17,4 @@ modified: 2021-10-21T05:59:58+09:00
 
 오 된다!
 
-파일명과 마크다운 머릿말(뭐라 부르는지 모르겠다)만 수정하면 데스크탑에서 작성한 것과 똑같다!
+파일명과 YAML만 수정하면 데스크탑에서 작성한 것과 똑같다!
