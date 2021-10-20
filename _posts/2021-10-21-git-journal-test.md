@@ -1,9 +1,12 @@
 ---
-created: 2021-10-21T05:28:21+09:00
-modified: 2021-10-21T05:43:23+09:00
+date: 2021-10-21T05:28:21+09:00
+last_modified_at: 2021-10-21T05:43:23+09:00
+title: Git Journal Test
+categories: Log Diary
+modified: 2021-10-21T05:59:58+09:00
 ---
 
-# 시도
+#시도
 
 일기 쓰고 싶을 때 데스크탑을 켜야만하는 귀찮음
 
