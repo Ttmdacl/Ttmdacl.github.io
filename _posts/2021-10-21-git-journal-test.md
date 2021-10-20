@@ -3,9 +3,10 @@ title: Git Journal Test
 date: 2021-10-21T05:28:21+09:00
 last_modified_at: 2021-10-21T05:43:23+09:00
 categories: Log Diary
+lastmodified: 2021-10-21T06:06:35+09:00
 ---
 
-#시도
+# 시도
 
 일기 쓰고 싶을 때 데스크탑을 켜야만하는 귀찮음
 
@@ -18,3 +19,5 @@ categories: Log Diary
 오 된다!
 
 파일명과 YAML만 수정하면 데스크탑에서 작성한 것과 똑같다!
+
+다 좋은데 글을 수정할 때마다 자동으로 커밋을 하다보니 커밋이 지저분해지는 단점은 있는 것 같다..
