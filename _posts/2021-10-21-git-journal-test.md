@@ -1,9 +1,8 @@
 ---
 title: Git Journal Test
 date: 2021-10-21T05:28:21+09:00
-last_modified_at: 2021-10-21T05:43:23+09:00
-categories: Log Diary
 lastmodified: 2021-10-21T06:06:35+09:00
+categories: Log Diary
 ---
 
 # 시도
