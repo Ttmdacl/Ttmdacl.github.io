@@ -4,11 +4,10 @@ theme_mode: dark
 lang: ko-KR
 timezone: Asia/Seoul
 
-title: Ttmdacl의 블로그
-tagline: 우리 블로그 정상 영업 합니다.
+title: 까모뜨린의 메모장
+tagline: 삶을 섞고 술을 바꿀 시간이군.
 description: >-
-  이것저것 해보고 있습니다."
-avatar: /assets/img/4444.gif
+avatar: /assets/img/Over.jpg
 url: 'https://Ttmdacl.github.io'
 baseurl:
 
