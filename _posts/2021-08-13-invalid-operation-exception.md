@@ -7,6 +7,7 @@ categories: Programming Normal
 ⚠ **알림** : 이전 블로그에서 썼던 것을 옮겨온 글 입니다. [참고](https://ttmdacl.github.io/log/diary/hello-blog/) ⚠
 {: .text-center}
 ---
+
 foreach로 List를 돌다가, 그 List의 요소가 삭제되거나 추가되어 변경되면 생기는 오류
 
 삭제 할 경우 요소의 인덱스를 기억해서 밖에서 지우던지, 삭제 후 바로 break로 나와주던지 해야함.
