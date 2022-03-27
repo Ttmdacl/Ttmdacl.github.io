@@ -2,9 +2,9 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
-  <title>메모장</title>
+  <title>블로그</title>
   <subtitle></subtitle>
-  <updated>2022-03-28T03:26:31+09:00</updated>
+  <updated>2022-03-28T03:51:07+09:00</updated>
   <author>
     <name>Ttmdacl</name>
     <uri>http://localhost:4000/</uri>
