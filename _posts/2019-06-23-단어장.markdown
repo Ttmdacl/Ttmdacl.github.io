@@ -1,0 +1,85 @@
+---
+title: "단어장"
+date: 2019-06-23. 15:37:00
+last_modified_at: 2021-10-05
+categories: Log Diary
+---
+⚠ **알림** : 이전 블로그에서 썼던 것을 옮겨온 글 입니다. [참고](https://ttmdacl.github.io/log/diary/hello-blog/) ⚠
+{: .text-center}
+---
+> Deprecated
+중요도가 떨어져 더 이상 사용되지 않고 앞으로는 사라지게 될 (컴퓨터 시스템 기능 등) (신조어)
+ex ) 유니티 리모트 기능
+
+> Arc
+<사인·코사인 등 삼각 함수가> 역의 (기하), 호
+ex ) Arc-sine, Arc-cosine, Arc-tanzent
+삼각함수의 역관계 함수. 결과값이 각으로 나오며, 호도법에서는 단위원을 기준으로 각의 크기가 곧 호의 길이가 되기 때문에 '호(arc)'를 의미하는 접두사 \rm arcarc-가 원래 함수의 명칭 앞에 붙는다.[1]
+
+> Width
+폭, 넓이
+ex ) 대쉬 이펙트의 넓이
+
+> Integrate
+통합시키다
+
+> Complex
+복잡한
+
+> Internal
+내부의, 채내의, (단체) 내부의, 내면
+
+> Argument
+논쟁, 언쟁, 말다툼
+
+> Even, Odd
+짝수의, 홀수의
+
+>Direction, Indirection
+직접적, 간접적
+
+>invalid 유효하지 않은
+ex) Invalid Operation Exception : ~
+> valid 유효한
+ in- 접두사는 부정, 반대, 부재의 의미를 가짐
+
+> Operation 작업 조작 연산
+>Enumerate 세다 열거하다
+Enumeration 열거
+ex) Enum 데이터 형식
+-ion 접미사는 단어를 명사로 만들어줌
+Action도 마찬가디로 Act + -ion으로 명사로 만든것 (!)
+
+>Secure 안심하는 안전한 확실한(앞으로도 계속되거나 성공적일 것으로 여겨지는 =safe)
+>Insecure 자신(감)이 없는 불안정한 안전하지 못한
+ex) 
+카톡 1대1 채팅이나 Discord 1대1 채팅 같은 곳, 텔레그램 같은 보안 메신저는 Secure한, 
+카톡 오픈 채팅방이나 Discord 서버, Clubhouse 같이 불특정 다수가 참여하고 볼 수 잇는 곳은 Insecure
+
+>Swan Song 가수나 음악가 등의 유작, 최후의 걸작
+전설로는 백조가 평생 조용하다 단 한 번 죽기 직전에 아름답게 운다고 알려져서
+
+> Specify
+
+> Paragraphs
+
+> Quotes
+
+> Convert
+
+> i.e. InExample
+
+> Parse
+
+> invoke
+invoking
+
+> constructor
+ex const
+
+> struct
+
+> property
+
+음 하루 이틀하고 안하는 내 인생이 레전드
+20190808 틀리거나, 수정이 필요하다면 말씀하주세요.
