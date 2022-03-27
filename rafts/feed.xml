@@ -1,0 +1,272 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>메모장</title>
+  <subtitle></subtitle>
+  <updated>2022-03-28T03:26:31+09:00</updated>
+  <author>
+    <name>Ttmdacl</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="ko-KR"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
+  <rights> © 2022 Ttmdacl </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>내가 너무 어리다</title>
+    <link href="http://localhost:4000/posts/%EB%82%B4%EA%B0%80-%EB%84%88%EB%AC%B4-%EC%96%B4%EB%A6%AC%EB%8B%A4/" rel="alternate" type="text/html" title="내가 너무 어리다" />
+    <published>2022-03-24T03:05:52+09:00</published>
+  
+    <updated>2022-03-24T03:05:52+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%EB%82%B4%EA%B0%80-%EB%84%88%EB%AC%B4-%EC%96%B4%EB%A6%AC%EB%8B%A4/</id>
+    <content src="http://localhost:4000/posts/%EB%82%B4%EA%B0%80-%EB%84%88%EB%AC%B4-%EC%96%B4%EB%A6%AC%EB%8B%A4/" />
+    <author>
+      <name>Ttmdacl</name>
+    </author>
+
+  
+    
+    <category term="Log" />
+    
+    <category term="Diary" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      내가 너무 어린 것 같다. 
+어리석은 짓을, 후회할 짓을 너무 많이했다.
+
+그 사건 이후로 깨부할만 했을 텐데도, 나의 대작병이 아직도 났지 않았다.
+
+결국 내 모든 창조물은 속없이 껍데기만 커지고
+
+내 예상과 달리 사람들은 허영을 보고 기대하며
+
+나는 내심 그 기대과 관심에 목말라하면서도
+
+허영을 만들어냈다는 죄악감과 언젠가 내 허영이 탄로날 것이라는 불안감에 휩싸인다
+
+난 이제 어쩌면 좋을까.
+
+연초의 악몽이 다시 떠오르는 새벽이다
+
+모든 프로젝트를 끝내고
+
+조용히, 작은 것 하나만 바라보고 만들어나가야 겠다
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>존재감</title>
+    <link href="http://localhost:4000/posts/%EC%A1%B4%EC%9E%AC%EA%B0%90/" rel="alternate" type="text/html" title="존재감" />
+    <published>2022-02-18T04:59:00+09:00</published>
+  
+    <updated>2022-02-18T04:59:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%EC%A1%B4%EC%9E%AC%EA%B0%90/</id>
+    <content src="http://localhost:4000/posts/%EC%A1%B4%EC%9E%AC%EA%B0%90/" />
+    <author>
+      <name>Ttmdacl</name>
+    </author>
+
+  
+    
+    <category term="Log" />
+    
+    <category term="Diary" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      바로 전 일기의 연장선
+
+내가 우물 안 개구리였다는 생각이 요즘들어 너무 많이 든다
+
+고수들이 너무 많다
+
+아니 뭐.. 당연한 일이긴 한데..
+
+그냥.. 나도 고수의 자리에 앉고 싶다
+
+한 분야의 전문가가 되고 싶다
+
+더 공부해야겠다
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>존잘</title>
+    <link href="http://localhost:4000/posts/%EC%A1%B4%EC%9E%98/" rel="alternate" type="text/html" title="존잘" />
+    <published>2022-02-01T20:19:00+09:00</published>
+  
+    <updated>2022-02-01T20:19:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%EC%A1%B4%EC%9E%98/</id>
+    <content src="http://localhost:4000/posts/%EC%A1%B4%EC%9E%98/" />
+    <author>
+      <name>Ttmdacl</name>
+    </author>
+
+  
+    
+    <category term="Log" />
+    
+    <category term="Diary" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      존잘이 너무 많다
+
+여러 분야를 공부하면 할수록 잘하는 사람들이 너무나도 많아 보인다
+
+그 아래에서 배우고 싶어도 쉽게 말을 못 걸겠다
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>VRC 안개 (Fog)</title>
+    <link href="http://localhost:4000/posts/VRC-fog/" rel="alternate" type="text/html" title="VRC 안개 (Fog)" />
+    <published>2022-01-28T09:48:00+09:00</published>
+  
+    <updated>2022-01-28T10:14:06+09:00</updated>
+  
+    <id>http://localhost:4000/posts/VRC-fog/</id>
+    <content src="http://localhost:4000/posts/VRC-fog/" />
+    <author>
+      <name>Ttmdacl</name>
+    </author>
+
+  
+    
+    <category term="VRC" />
+    
+    <category term="World" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Fog (유니티 기본 기능)
+
+Lighting &amp;gt; OtherSettings &amp;gt; Fog
+
+켜두면 카메라로부터 멀어지는 오브젝트들을 흐리게 보이게 만들 수 있음 (점점 Fog Color로 보이는)
+
+이때 SkyBox는 흐리게 보이지 않기 때문에, 하늘도 흐리게 만들고 싶다면 Fog Color와 같은 색의 Material을 적용하는 식으로 사용.
+
+
+
+Udon 으로 접근하기
+
+RenderSettings.fog 로 키고 끌 수 있음
+
+RenderSettings에 fog 관련 변수들에 접근하고 수정할 수 있음.
+
+
+
+주의
+
+Fog 안켜둔 채로 빌드하면, 게임 내에서 Udon으로 RenderSettings.fog 켜도 적용이 안됌
+
+이유는 나도 몰?루. VRC로 빌드할 때 지혼자 설정되는 게 많은 것 ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>계산 순서에 따른 퍼포먼스 차이</title>
+    <link href="http://localhost:4000/posts/%EA%B3%84%EC%82%B0-%EC%88%9C%EC%84%9C%EC%97%90-%EB%94%B0%EB%A5%B8-%ED%8D%BC%ED%8F%AC%EB%A8%BC%EC%8A%A4-%EC%B0%A8%EC%9D%B4/" rel="alternate" type="text/html" title="계산 순서에 따른 퍼포먼스 차이" />
+    <published>2022-01-02T12:07:00+09:00</published>
+  
+    <updated>2022-01-02T12:07:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%EA%B3%84%EC%82%B0-%EC%88%9C%EC%84%9C%EC%97%90-%EB%94%B0%EB%A5%B8-%ED%8D%BC%ED%8F%AC%EB%A8%BC%EC%8A%A4-%EC%B0%A8%EC%9D%B4/</id>
+    <content src="http://localhost:4000/posts/%EA%B3%84%EC%82%B0-%EC%88%9C%EC%84%9C%EC%97%90-%EB%94%B0%EB%A5%B8-%ED%8D%BC%ED%8F%AC%EB%A8%BC%EC%8A%A4-%EC%B0%A8%EC%9D%B4/" />
+    <author>
+      <name>Ttmdacl</name>
+    </author>
+
+  
+    
+    <category term="Programming" />
+    
+    <category term="Normal" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+계산 순서에 따라 퍼포먼스 차이가 발생한다
+
+당연한 말이긴 하지만
+
+VS 2022 에서 제안하는 것들 중 도움되는 것이 참 많은 것 같다.
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
