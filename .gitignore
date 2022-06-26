@@ -21,4 +21,7 @@ vendor
 node_modules
 package-lock.json
 
+# custom
+rafts
 rafts/
+/rafts/
