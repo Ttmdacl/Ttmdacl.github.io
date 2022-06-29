@@ -1,6 +1,6 @@
 ---
 title: VRC 월드 유니티 테스트 시, ContextMenu Attribute
-last_modified_at: 2021-10-10
+date: 2022-06-28. 02:41
 categories: Programming Normal
 ---
 
