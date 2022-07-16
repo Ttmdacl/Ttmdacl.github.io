@@ -1,7 +1,7 @@
 ---
 title: VRC 월드 유니티 테스트 시, ContextMenu Attribute
 date: 2022-06-28. 02:41
-categories: Programming Normal
+categories: VRC World
 ---
 
 VRC World 맵 제작 시, 유니티에서 테스트를 진행할 때에는

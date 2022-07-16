@@ -10,3 +10,5 @@ categories: Programming Normal
 
 Ctrl + K 입력 후 Ctrl + F (선택 영역 정렬)  
 Ctrl + K 입력 후 Ctrl + D (문서 전체 정렬)
+
+여담으로 Rider는 Ctrl + Alt + L
