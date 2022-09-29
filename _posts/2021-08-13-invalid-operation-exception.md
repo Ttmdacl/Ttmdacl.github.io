@@ -4,9 +4,7 @@ date: 2021-08-13. 22:45:00
 last_modified_at: 2021-10-07
 categories: Programming Normal
 ---
-⚠ **알림** : 이전 블로그에서 썼던 것을 옮겨온 글 입니다. [참고](https://ttmdacl.github.io/log/diary/hello-blog/) ⚠
-{: .text-center}
----
+{% include old-post.html %}
 
 foreach로 List를 돌다가, 그 List의 요소가 삭제되거나 추가되어 변경되면 생기는 오류
 

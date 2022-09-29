@@ -4,9 +4,7 @@ date: 2019-12-10. 20:01:00
 last_modified_at: 2021-10-05
 categories: Log Diary
 ---
-⚠ **알림** : 이전 블로그에서 썼던 것을 옮겨온 글 입니다. [참고](https://ttmdacl.github.io/log/diary/hello-blog/) ⚠
-{: .text-center}
----
+{% include old-post.html %}
 20191203225712.950590
 접근 제어자가 Public 이거나 [SerializeField] 속성을 준 변수를 인스펙터에서 수정한 후, 
 

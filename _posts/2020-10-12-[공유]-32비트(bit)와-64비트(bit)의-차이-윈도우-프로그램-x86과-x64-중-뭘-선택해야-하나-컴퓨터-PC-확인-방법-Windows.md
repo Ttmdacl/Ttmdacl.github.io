@@ -4,7 +4,5 @@ date: 2020-10-12. 03:33:00
 last_modified_at: 2021-10-05
 categories: Log Diary
 ---
-⚠ **알림** : 이전 블로그에서 썼던 것을 옮겨온 글 입니다. [참고](https://ttmdacl.github.io/log/diary/hello-blog/) ⚠
-{: .text-center}
----
+{% include old-post.html %}
 https://blog.naver.com/sharpsoul/221777128846
