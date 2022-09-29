@@ -4,10 +4,10 @@ theme_mode: dark
 lang: ko-KR
 timezone: Asia/Seoul
 
-title: 블로그
-tagline: 삶을 섞고 술을 바꿀 시간이군.
+title: 카모뜨린
+tagline: 의 비밀 아지트
 description: >-
-avatar: /assets/img/ProfileImage.jpeg
+avatar: /assets/img/ProfileImage.jpg
 url: 'https://Ttmdacl.github.io'
 baseurl:
 
