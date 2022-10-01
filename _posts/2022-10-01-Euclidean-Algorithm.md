@@ -18,8 +18,8 @@ A와 B의 최대 공약수는 B와 r의 최대 공약수
 // a = A / GCD;
 // b = B / GCD;
 // LCM = GCD * a * b;
-// A * B = GCD * (GCD * a * b);
-// A * B = GCD + LCM
+// A * B = GCD * a * GCD * b;
+// A * B = GCD * LCM
 
 // int [] { 최대공약수, 최소공배수 } 반환
 public int[] GCD(int A, int B)
