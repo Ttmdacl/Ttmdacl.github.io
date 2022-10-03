@@ -4,9 +4,7 @@ date: 2019-05-28. 19:46:00
 last_modified_at: 2021-10-05
 categories: Log Diary
 ---
-⚠ **알림** : 이전 블로그에서 썼던 것을 옮겨온 글 입니다. [참고](https://ttmdacl.github.io/log/diary/hello-blog/) ⚠
-{: .text-center}
----
+{% include old-post.html %}
 
 전에는 블로그를 게임 개발 일지 적는 곳으로 활용하려 했지만, 최근 얼마남지 않은 2019 청강 공모전 준비 및 학교 수행평가, 여러 행사 참여들로 바빠지면서 쓸 시간이 적어졌습니다. 
 
