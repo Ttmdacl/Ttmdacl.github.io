@@ -1,7 +1,7 @@
 ---
 title: "GetType() typeof()"
 date: 2022-06-29. 13:01
-categories: Programming Normal
+categories: Programming Programming-Normal
 ---
 
 https://stackoverflow.com/questions/11312111/when-and-where-to-use-gettype-or-typeof

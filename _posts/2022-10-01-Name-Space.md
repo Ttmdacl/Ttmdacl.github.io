@@ -1,7 +1,7 @@
 ---
 title: "네임스페이스"
 date: 2022-10-01. 11:03
-categories: Programming Normal
+categories: Programming Programming-Normal
 ---
 
 CPP의 경우

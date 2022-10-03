@@ -1,7 +1,8 @@
 ---
 title: C / C++ 에러
 date: 2022-07-08. 13:54
-categories: Programming Normal
+categories: Programming Programming-Normal
+tags: C CPP
 ---
 
 > [C++ C3861](https://docs.microsoft.com/ko-kr/cpp/error-messages/compiler-errors-2/compiler-error-c3861?view=msvc-170)  

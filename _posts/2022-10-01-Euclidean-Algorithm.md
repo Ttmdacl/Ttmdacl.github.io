@@ -1,7 +1,8 @@
 ---
 title: 유클리드 호제법
 date: 2022-10-01. 08:42
-categories: Programming Normal
+categories: Programming Algorithm
+tags: Algorihtm
 ---
 
 최대공약수를 구하는 알고리즘

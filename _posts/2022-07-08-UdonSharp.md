@@ -1,7 +1,8 @@
 ---
 title: U# 자주 하는 질문 (자문자답)
 date: 2022-07-08. 14:31
-categories: VRC World
+categories: Unity VRC
+tags : Unity VRC
 ---
 
 오류 로그는 안뜨는데 작동안할 때  

@@ -1,7 +1,8 @@
 ---
 title: VRC 월드 유니티 테스트 시, ContextMenu Attribute
 date: 2022-06-28. 02:41
-categories: VRC World
+categories: Unity VRC
+tags: Unity VRC
 ---
 
 VRC World 맵 제작 시, 유니티에서 테스트를 진행할 때에는
@@ -18,4 +19,4 @@ ContextMenu로 Add 를 호출하면 Update에서 값이 변하지 않은 초기�
 
 Add 함수 내에서 로그를 찍어보면, ContextMenu로 호출했을 때 값이 변하는 것을 확인할 수 있지만 Update 에서는 여전히 기본값을 찍어낸다.
 
-U# 스크립트가 Udon Behavior 에 감싸져 있어서 그런 지, 아니면 내가 아직 ContextMenu Attribute를 제대로 이해하지 못한 상태라 그런 건지,원인은 제대로 모르겠다
+U# 스크립트가 Udon Behavior 에 감싸져 있어서 그런 지, 아니면 내가 아직 ContextMenu Attribute를 제대로 이해하지 못한 상태라 그런 건지, 원인은 제대로 모르겠다

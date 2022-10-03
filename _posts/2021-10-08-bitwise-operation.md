@@ -1,8 +1,8 @@
 ---
-title: "[C] 비트 연산자, 시프트 연산자"
+title: "비트 연산자, 시프트 연산자"
 date: 2021-10-08. 19:35:00
 last_modified_at: 2021-10-10
-categories: Programming C
+categories: Programming Programming-Normal
 ---
 
 # 공통
@@ -124,7 +124,6 @@ categories: Programming C
 - [Wikipedia - 비트 연산자](https://ko.wikipedia.org/wiki/%EB%B9%84%ED%8A%B8_%EC%97%B0%EC%82%B0)
 - [Wikipedia - 산술 시프트](https://ko.wikipedia.org/wiki/%EC%82%B0%EC%88%A0_%EC%8B%9C%ED%94%84%ED%8A%B8)
 - [Wikipedia - 논리 시프트](https://ko.wikipedia.org/wiki/%EB%85%BC%EB%A6%AC_%EC%8B%9C%ED%94%84%ED%8A%B8)
-
 
 비트 마스크
 

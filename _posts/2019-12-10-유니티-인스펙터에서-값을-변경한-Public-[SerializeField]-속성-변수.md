@@ -2,7 +2,7 @@
 title: "유니티 _ 인스펙터에서 값을 변경한 Public, [SerializeField] 속성 변수"
 date: 2019-12-10. 20:01:00
 last_modified_at: 2021-10-05
-categories: Log Diary
+categories: Unity Unity-Normal
 ---
 {% include old-post.html %}
 20191203225712.950590

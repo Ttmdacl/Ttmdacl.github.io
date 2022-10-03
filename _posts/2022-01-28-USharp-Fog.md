@@ -1,7 +1,8 @@
 ---
 title:  "VRC 안개 (Fog)"
 date: 2022-01-28. 09:48
-categories: VRC World
+categories: Unity VRC
+tags: Unity VRC
 ---
 
 # Fog (유니티 기본 기능)
