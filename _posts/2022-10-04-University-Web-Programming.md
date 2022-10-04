@@ -14,7 +14,7 @@ System : HW + SW
 Client (System) : Server에 정보를 요청하는 시스템  
 Server (System) : Client의 요청에 의해서 정보를 제공하는 시스템  
 
-인터넷 연결된 컴퓨터 : Client or Server or Both    
+인터넷 연결된 컴퓨터 : Client or Server or Both
 
 인터넷을 통해,  
 Client는 자신이 지정한 Server로부터 정보를 요청 가능  
@@ -27,6 +27,7 @@ Client-Server라고 하는 것은 좁은 의미로는 SW를 의미하는 것이 
 2. Clinet-Server SW(프로그램)
 
 Clinet SW -> Server SW
+
 - Web Client -> Internet ->  Web Server
 - FTP "
 - Telnet "
@@ -42,18 +43,18 @@ Clinet SW -> Server SW
 각 서비스마다 사용하는 Client용, Server용 SW가 별도 있음
 User가 각 서비스를 이용/제공하기 위해서는 그에 맞는 Client용 SW를 사용, Server용 SW도 설치, 동작시켜야 함  
 
-Server용 SW들은 시스템 관리자들이 사용, 때문에 Client User는 Server 에 어떤 SW가 있는지는 몰라도 됨   
+Server용 SW들은 시스템 관리자들이 사용, 때문에 Client User는 Server 에 어떤 SW가 있는지는 몰라도 됨
 원하는 서비스에 적합한 SW를 이용해 Server에 접속하기만 하면 됨
 
 ---
 
 3. Web Client - Web Server
 
-
 Web Clinet SW -> Web Server SW
+
 - Chrome, Safari, Edge, Internet Explorer
 - Internet
-- Apache, IIS, Sambar ... 
+- Apache, IIS, Sambar ...
 
 Web Client SW 를 일반적으로 Web Browser 라 부름
 
@@ -105,6 +106,7 @@ VBScript 라는 것도 있지만 안쓰임
 4.2 Web Server 프로그래밍, Back-end, Server Side Include  
 
 주로 데이터베이스와 연관  
+
 - DB Data 삽입/수정/검색  
 - 회원가입/로그인, 인증/보안, 정보/기능  
 
@@ -145,7 +147,7 @@ Chapter 02 개발환경 구축
 1. [Apache](https://apache.org)
 1. [MariaDB](https://mariadb.org)
 
-개발도구들은 각각 별도로 설치할 수도 있지만 상호 연결을 설정하는 과정들이 복잡하기 때문에 이들을 한번에 설치할 수 있는 통합 개발환경(패키지)을 이용하여 구축합니다. 
+개발도구들은 각각 별도로 설치할 수도 있지만 상호 연결을 설정하는 과정들이 복잡하기 때문에 이들을 한번에 설치할 수 있는 통합 개발환경(패키지)을 이용하여 구축합니다.
 
 통합 패키지(Server 스택) : XAMPP (X(Cross) Apache MariaDB Php Perl), LAMP, MAMP, WAMP 등
 
@@ -232,7 +234,7 @@ Web 사이트에 Browser로 접속하면 Web Server는 루트 폴더로 이동�
 나열된 파일 이름들은 Web 관리자만 알고 있는 내용  
 
 초기 파일이 필요한 이유는 사이트 주소만 입력해도 홈페이지의 내용을 확인할 수 있도록하기 위해서입니다.  
-즉 사이트 주소 예를 들어 http://naver.com 주소만 입력해도 홈페이지의 내용이 보이는 이유는 등록된 초기 파일이 동작하기 때문입니다.  
+즉 사이트 주소 예를 들어 <http://naver.com> 주소만 입력해도 홈페이지의 내용이 보이는 이유는 등록된 초기 파일이 동작하기 때문입니다.  
 이렇게 하면 초기 파일의 이름을 외부에서 알 수 없도록 할 수 있습니다.  
 
 Web Browser에서 127.0.0.1 또는 localhost 접속하면 index.php 파일이 실행  
@@ -265,13 +267,14 @@ DocumentRoot "C:/xampp/htdocs"
 Web사이트 초기 파일 설정의 에서 목록에 나열된 초기 파일이 없을 경우  
 루트 폴더에 저장되어 있는 모든 파일들의 목록이 표시됨  
 
-디렉토리 인텍싱(Directory Indexing) : 
+디렉토리 인텍싱(Directory Indexing) :
 루트 폴더, 하위 폴더, 파일 목록을 제공하는 것은 보안에 매우 취약  
 
 Require all granted 문장 : 디렉토리(폴더) 목록표시를 허용
 
 granted를 denied으로 변경하거나  
-#을 이용해 주석 처리  
+
+# 을 이용해 주석 처리  
 
 Forbidden 메시지가 표시되면서 파일 목록을 확인할 수 없게 됨
 
@@ -344,6 +347,7 @@ JSP : Java 언어를 기반, Java의 모든 기능을 사용 가능
 | JSP | MS Windows, Linux, MacOS | Apache Tomcat | Oracle |
 
 PHP 특징  
+
 - C 기반
 - PHP 엔진 : 오픈소스, 무료
 - PHP 엔진 : 다양한 HW와 OS에서 사용되며 플랫폼 독립적
@@ -359,7 +363,6 @@ PHP는 WebServer를 통해서만 실행 가능, DBMS와 연동해서 동작
 - DBMS
 - DB
 - Server System 에서 인터넷을 통해 Client System에 에 처리 결과 전송
-
 
 4.1 PHP 프로그램 작성
 
@@ -401,7 +404,6 @@ echo "$op1, $op2 곱하기 결과 : $multi";
 WebBrowser 출력, 페이지 소스보기
 123, 456 곱하기 결과 : 56088
 
-
 HTML 구조 내의 PHP 코드는 구조상 <body>와 </body> 사이에 작성하는 것이 좋음  
 
 PHP 코드 안의 HTML 코드
@@ -423,6 +425,7 @@ WebBrowser 출력
 PHP
 
 PHP 기본 구조  
+
 ```php
 <?php ?>
 
@@ -437,7 +440,7 @@ short_open_tag = 설정 값 (default : Off, On)
 
 // 주석  
 &#35;  주석  
-/* */ 주석  
+/**/ 주석  
 
 PHP 키워드인  
 <?php, echo, if, print 등은  
@@ -488,9 +491,8 @@ printf("%%d = '%d'", $temp);
 메모리 주소는 편의상 16진수로 표현  
 16진수 첫 자리는 2^4 = 16B, 두 자리는 2^8 = 256B, 여덟 자리는 2^32 = 4MB
 
-
 arr = [1, 2, 3]; // 배열
-temp = object { 
+temp = object {
     name : 'TEMP',
     addr : 'TEMP'
 }
@@ -617,5 +619,131 @@ Key 인덱스, value 요소
 value 값 바꿔도 원래 배열에는 기본적으로 반영 X  
 변경하려면 조건문에 & 기호 사용 (&$value)  
 
-함수function키워드를이용Formal Parameter 매개변수, 형식인자 함수 정의에 사용되는 변수명
-Actual Argument 실인자(인수), 전달인자(인수), 전달값 함수 호출에 사용되는 실제값
+함수  
+function 키워드 이용
+
+Formal Parameter 매개변수, 형식인자 함수 정의에 사용되는 변수명  
+Actual Argument 실인자(인수), 전달인자(인수), 전달값 함수 호출에 사용되는 실제값  
+
+배열  
+Index로 숫자, 문자열 사용  
+Index가 문자열이면 연관 배열 Associative Array 라고 함  
+
+$arr = array( , , );
+$arr = [ , , ];
+
+$arr = array(" " => , " " => , );  
+$arr = [" " => , " " => , ];  
+
+print_r  
+배열 특정 요소, 배열 전체 요소 출력  
+echo는 배열 전체 요소 출력이 불가능  
+
+객체 속성과 메소드 사용을 위해 -> 기호 사용  
+
+3. 수치 함수  
+3.1 수학 함수 일부
+
+| float sin(float $num) | 사인 |
+| float cos(float $num) | 코사인 |
+| float tan(float $num) | 탄젠트 |
+| float exp(float $num) | e 지수값 |
+| float log(float $num) | 자연 로그값  |
+| float log10(float $num) | 상용 로그값 |
+| int\|float abs(int\|float $num) | 절대값 |
+| float pi() | Pi |
+| float rad2deg(float $num) | 라디언의 각도값 |
+| float deg2rad(float $num) | 각도의 라디언값 |
+| float sqrt(float $num) | 제곱근 |
+
+| float ceil(int\|float $num) | 올림 정수값 |
+| float floor(int\|float $num) | 내림 정수값 |
+| float round(int\|float $num, int $precision) | 반올림 |
+
+| mixed min(mixed $value, mixed ...$values) | 최소값 |
+| mixed max(mixed $value, mixed ...$values) | 최대값 |
+
+배열 인수로 사용 가능
+
+| string decbin(int $num) | 10진수 -> 2진수 |
+| string decoct(int $num) | 10진수 -> 8진수 |
+| string dechex(int $num) | 10진수 -> 16진수 |
+| int\|float bindec(string $binary_string) | 2진수 문자열\|숫자 -> 10진수 |
+| int\|float octdec(string $octal_string) | 8진수 문자열\|숫자 -> 10진수 |
+| int\|float hexdec(string $hex_string) | 16진수 문자열 -> 10진수 |
+
+| string number_format(float $num, 소수점자리수, 소수점기호, 천단위기호):
+
+| string chr($ascii_num) | 10진수 -> Char |
+| int ord(string $character) | Char -> ASCII(10진수) |
+| string nl2br(string $string)  | "\n" -> \<br\> (Newline To br) |
+| array explode(string $separator, string $string) | Split |
+| string implode(string $separator, array $array) | Join() |
+| int strlen(string $string) | 문자열 길이 (바이트 단위) |
+
+| time() | 1970/01/01 누적된 초 |
+| string date(string $format) | |
+
+| c | 2022-07-18T12:17:31+02:00 |
+| r | Mon, 18 Jul 2022 12:17:31 +0200 |
+| Y | 연도 | 1999, 2022 |
+| y | 연도 | 01, 22 |
+| F | 월 | January ~ December |
+| m | 월 | 01 ~ 12 |
+| n | 월 | 1 ~ 12 |
+| M | 월 | Jan ~ Dec |
+| t | 월 일수 | 28 ~ 31 |
+| d | 날짜 | 01 ~ 31 |
+| j | 날짜 | 1 ~ 31 |
+| D | 요일 | Mon ~ Sun |
+| l | 요일 | Monday ~ Sunday |
+| N | 요일 | 1 ~ 7 |
+| w | 요일 | 0 ~ 6 |
+| a | 오전, 오후 | am, pm |
+| A | 오전, 오후 | AM, PM |
+| g | 시간 | 1 ~ 12 |
+| G | 시간 | 0 ~ 23 |
+| h | 시간 | 01 ~ 12 |
+| H | 시간 | 00 ~ 23 |
+| i | 분 | 00 ~ 59 |
+| s | 초 | 00 ~ 59 |
+
+| resource opendir($dir) | 경로 열어 시스템 자원으로 |
+| string readdir($dir_handle) | 지정된 시스템 자원에서 파일 목록을 문자열로 반환 |
+| bool closedir($dir_handle) | 지정된 시스템 자원의 디렉터리를 닫음 |
+
+readdir : 파일 목록 차례로 가져오는
+
+| array scandir($dir) | 시스템 자원에서 디렉터리(파일) 목록 |
+| array scandir($dir, 1) | 내림차순 정렬 |
+
+| bool is_dir($dir) | 디렉터리? |
+| bool mkdir($dir) | 디렉터리 생성 |
+| bool rmdir($dir) | 디렉터리 삭제 |
+
+| resource fopen($filename, $mode) | 파일을 열어 시스템 자원으로 |
+| bool fclose($file_handle) | 지정된 시스템 자원의 파일을 닫음 |
+| int filesize($filename) | 파일의 크기(바이트 수) |
+| bool is_file($filename) | 파일? |
+| bool file_exists($filename) | 파일\|디렉터리? |
+
+fopen 함수의 $mode 옵션  
+
+| r | 읽기 전용 | 읽기 위치(파일포인터)는 파일의 처음. 파일이 없으면 에러 |
+| r+ | 읽기/쓰기 | 읽기/쓰기 위치(파일포인터)는 파일의 처음. 파일이 없으면 에러 |
+| w | 쓰기 전용 | 파일이 있으면 내용을 삭제하고, 없으면 새 파일 생성 |
+| w+ | 읽기/쓰기 | 파일이 있으면 내용을 삭제하고, 없으면 새 파일 생성 |
+| a | 추가 전용 | 추가 위치(파일포인터)는 파일의 끝. 파일이 없으면 새 파일 생성 |
+| a+ | 읽기/추가 | 읽기/추가 위치(파일포인터)는 파일의 끝. 파일이 없으면 새 파일 생성 |
+| x | 쓰기 전용으로 생성 | 파일이 있으면 에러, 없을 때 새 파일 생성 |
+| x+ | 읽기/쓰기용으로 생성 | 파일이 있으면 에러, 없을 때 새 파일 생성 |
+
+파일 내용을 읽기 위해서는 fopen 옵션 r r+  
+
+| string fread($file_handle, $length) | 정보를 이용하여 $length 바이트 만큼 문자를 읽음 |
+| string fgetc($file_handle) | 파일 포인터에서 문자 단위로 읽음 |
+| string fgets($file_handle) | 파일 포인터에서 라인 단위로 읽음 |
+
+파일 내용을 쓰기 위해서는 fopen 옵션 w w+ a a+ x x+  
+
+| int fwrite($file_handle, $string) | $file_handle 정보를 이용하여 $string 문자열을 쓰기 |
