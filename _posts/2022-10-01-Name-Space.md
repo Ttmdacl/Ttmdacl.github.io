@@ -28,3 +28,8 @@ double Circle::CalcArea()
 
 하나의 프로그램에서 여러 개의 이름 공간을 사용할 수 있다
 
+---
+
+[https://stackoverflow.com/questions/4269034/what-is-the-meaning-of-prepended-double-colon/4269060#4269060](https://stackoverflow.com/questions/4269034/what-is-the-meaning-of-prepended-double-colon/4269060#4269060)
+
+네임스페이스 없이 `::` 를 쓰면 Global Namespace를 사용  
