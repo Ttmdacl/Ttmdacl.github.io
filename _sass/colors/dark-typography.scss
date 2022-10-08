@@ -6,7 +6,7 @@
   /* Framework color */
   --body-bg: var(--main-wrapper-bg);
   --mask-bg: rgb(68, 69, 70);
-  --main-wrapper-bg: rgb(27, 27, 30);
+  --main-wrapper-bg: #131823;
   --main-border-color: rgb(44, 45, 45);
   --scrollbar-track-bg: rgba(0, 0, 0, 0.3);
   --scrollbar-thumb-bg: rgb(173 171 171 / 50%);
@@ -17,14 +17,14 @@
   --heading-color: #cccccc;
   --blockquote-border-color: rgb(66, 66, 66);
   --blockquote-text-color: rgb(117, 117, 117);
-  --link-color: rgb(138, 180, 248);
+  --link-color: #fc1783;
   --link-underline-color: rgb(82, 108, 150);
   --button-bg: rgb(39, 40, 43);
   --btn-border-color: rgb(63, 65, 68);
   --btn-backtotop-color: var(--text-color);
   --btn-backtotop-border-color: var(--btn-border-color);
   --btn-box-shadow: var(--main-wrapper-bg);
-  --card-header-bg: rgb(51, 50, 50);
+  --card-header-bg: rgb(17, 19, 23);
   --label-color: rgb(108, 117, 125);
   --checkbox-color: rgb(118 120 121);
   --checkbox-checked-color: var(--link-color);
@@ -32,14 +32,14 @@
   /* Sidebar */
   --sidebar-bg: radial-gradient(circle, #242424 0%, #1d1f27 100%);
   --sidebar-muted-color: #6d6c6b;
-  --sidebar-active-color: rgb(255 255 255 / 80%);
+  --sidebar-active-color: #fc1783;
   --nav-cursor-color: rgb(183, 182, 182);
   --sidebar-btn-bg: rgb(117 116 116 / 20%);
 
   /* Topbar */
   --topbar-text-color: var(--text-color);
-  --topbar-wrapper-bg: rgb(39, 40, 43);
-  --search-wrapper-bg: rgb(34, 34, 39);
+  --topbar-wrapper-bg: rgb(10, 14, 26);
+  --search-wrapper-bg: rgb(6, 6, 13);
   --search-wrapper-border-color: rgb(34, 34, 39);
   --search-icon-color: rgb(100, 102, 105);
   --input-focus-border-color: rgb(112, 114, 115);
@@ -64,7 +64,7 @@
   --btn-share-color: #6c757d;
   --btn-share-hover-color: #bfc1ca;
   --relate-post-date: var(--text-muted-color);
-  --card-bg: rgb(39, 40, 43);
+  --card-bg: rgb(33, 37, 47);
   --card-border-color: rgb(53, 53, 60);
   --card-box-shadow: var(--main-wrapper-bg);
 
