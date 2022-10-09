@@ -2,33 +2,23 @@
 title: 유클리드 알고리즘/호제법
 date: 2022-10-01. 08:42
 categories: Programming Algorithm
-tags: Algorihtm
+tags: Algorithm
 use_math: true
 ---
 
+[백준 알고리즘 분류](https://www.acmicpc.net/problemset?sort=ac_desc&algo=26)
+
 A를 B로 나눈 나머지 r (이때, A > B)  
-A와 B의 최대공약수는 B와 r의 최대공약수와 같음을 이용하여 A와 B의 최대공약수를 구하는 알고리즘  
+A, B의 최대공약수는 B, r의 최대공약수와 같음을 이용하여 A, B의 최대공약수를 구하는 알고리즘  
 
-참고 : 최대공약수를 알면 최소공배수도 구할 수 있음  
+A, B의 최대공약수를 알면 A, B의 최소공배수도 알 수 있다.
 
-a = A / GCD  
-b = B / GCD  
-LCM = GCD * a * b  
-A * B = GCD * a * GCD * b  
-A * B = GCD * LCM  
-
-CPP STL 내장 함수로도 존재 gcd, lcm 
-
-최대공약수 GCD Greatest Common Divisor  
-최소공배수 LCM Least/Lowest Common Multiple  
+CPP STL 내장 함수로도 존재 gcd, lcm  
 
 ```cs
-// int [] { 최대공약수, 최소공배수 } 반환
-public int[] GCD(int A, int B)
+int GCD(int A, int B)
 {
-    // A % B, 최종적으로 GCD가 됨
     int r = 0;
-
     while (A % B != 0)
     {
         r = A % B;
@@ -36,11 +26,13 @@ public int[] GCD(int A, int B)
         B = r;
     }
 
-    return r == 0 
-    ? new int[] { A, B } 
-    : new int[] { r, A * B / r };
+    return B;
 }
 
+int LCM(int A, int B)
+{
+    return A * B / GCD(A, B);
+}
 ```
 
 ---
@@ -66,6 +58,16 @@ A, B의 공통된 약수
 ---
 A, B 의 공약수 중에서 가장 큰 수  
 gcd(A, B) ⇔ A, B의 최대공약수  
+
+A, B 의 최대공약수의 약수는 A, B의 공약수  
+
+i.e.  
+12의 약수 : 1, 2, 3, 4, 6, 12  
+18의 약수 : 1, 2, 3, 6, 8, 18  
+
+12와 18의 공약수 : 1, 2, 3, 6  
+12와 18의 최대공약수 : 6  
+6의 약수 : 1, 2, 3, 6  
 
 ## 서로소 (-[素](https://hanja.dict.naver.com/#/entry/ccko/d16e6665e5f943be80491da2e2d0f3d4){: target="_blank"}, Coprime)
 
@@ -120,3 +122,25 @@ B = gb = gkb
 ∴ gcd(A, B) = gcd(B, r)  
 
 이를 통해 큰 수 (A, B) 를 작은 수 (B, r) 로 계산할 수 있다.  
+
+## 공배수, Common Multiple  
+
+---
+
+A와 B의 공통된 배수
+
+## 최소공배수, LCM, Least/Lowest Common Multiple  
+
+---
+
+A, B 의 공배수 중에서 가장 작은 수  
+lcm(A, B) ⇔ A, B의 최소공배수  
+
+최대공약수를 안다면, 아래 공식을 이용해 바로 구할 수 있음  
+
+LCM = A \* B / GCD  
+A \* B = GCD \* LCM  
+a = A / GCD, A = a \* GCD  
+b = B / GCD, B = b \* GCD  
+A \* B = GCD \* a * GCD \* b  
+LCM = a \* b \* GCD  
