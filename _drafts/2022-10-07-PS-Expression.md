@@ -7,3 +7,5 @@ categories: Programming PS
 ## [브루트 포스 탐색](https://en.wikipedia.org/wiki/Brute-force_search)  
 
 -> 무지성 노가다 대입, 100% 정확성  
+
+그리디
