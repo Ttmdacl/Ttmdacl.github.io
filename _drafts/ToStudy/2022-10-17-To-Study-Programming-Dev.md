@@ -279,3 +279,23 @@ STL Vector vs Array
 [쿠키런 사운드, 미들웨어, FMOD](https://v.daum.net/v/5ae023f36a8e510001f88d05)
 [유니티, 프로젝트가 커질 때 코드 설계](https://unity.com/kr/how-to/how-architect-code-your-project-scales)
 [컴공 자료](https://github.com/Prev/CSE-Summary)
+[Untiy Inspector 에서 List Element 이름 바꾸기](https://forum.unity.com/threads/how-to-change-the-name-of-list-elements-in-the-inspector.448910/)
+[Untiy Inspector 에서 List Element 이름 바꾸기](https://dev-youngil.tistory.com/1)
+[Untiy Inspector 에서 List Element 이름 바꾸기](https://liveupdate.tistory.com/347)
+순람표 룩업 테이블
+<https://blogofth-lee.tistory.com/281>
+
+<https://blog.popekim.com/ko/2012/01/11/compile-time-hash-string-generation.html>
+
+<https://m.cafe.naver.com/ca-fe/web/cafes/26377973/articles/122961>
+
+<https://moguwai.tistory.com/entry/C%EA%B3%BC-C%EC%9D%98-%EB%AC%B8%EB%B2%95%EC%A0%81%EC%9D%B8-%EC%B0%A8%EC%9D%B4%EC%A0%90>
+
+<https://wikidocs.net/>
+
+<https://blog.ab180.co/posts/open-graph-as-a-website-preview>
+
+<https://velog.io/@jch9537/URI-URL>
+C# default
+Unity curve.Evaluate(
+로렘 입숨(lorem ipsum;
