@@ -1,8 +1,8 @@
 ---
-title: "알레르기 알레르기"
+title: "🪦 백업 - 알레르기 알레르기"
 date: 2019-06-03. 18:43:00
 last_modified_at: 2021-10-05
-categories: Log Diary
+categories: 🪦Backup
 ---
 {% include old-post.html %}
 알레르기 알레르기가 있다면 알레르기 알레르기가 알레르기인 알레르기 알레르기에 반응해서 엄청 가려울 것이다.

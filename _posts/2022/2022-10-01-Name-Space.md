@@ -4,6 +4,10 @@ date: 2022-10-01. 11:03
 categories: Programming Programming-Normal
 ---
 
+
+## 🗿
+
+---
 CPP의 경우
 
 네임스페이스는 식별자 (자료형, 함수, 변수 등의 이름)의 영역
@@ -27,6 +31,8 @@ double Circle::CalcArea()
 `using namespace std;` 와 같은 선언문을 사용하여서 현재의 이름공간을 지정하여도 된다
 
 하나의 프로그램에서 여러 개의 이름 공간을 사용할 수 있다
+
+## 🗿
 
 ---
 

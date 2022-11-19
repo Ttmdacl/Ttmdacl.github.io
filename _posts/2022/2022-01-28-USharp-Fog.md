@@ -5,7 +5,9 @@ categories: Unity VRC
 tags: Unity VRC
 ---
 
-# Fog (유니티 기본 기능)
+## 🗿 Fog (유니티 기본 기능)
+
+---
 
 Lighting > OtherSettings > Fog
 
@@ -13,17 +15,17 @@ Lighting > OtherSettings > Fog
 
 이때 SkyBox는 흐리게 보이지 않기 때문에, 하늘도 흐리게 만들고 싶다면 Fog Color와 같은 색의 Material을 적용하는 식으로 사용.
 
----
+## 🗿 Udon 으로 접근하기
 
-# Udon 으로 접근하기
+---
 
 RenderSettings.fog 로 키고 끌 수 있음
 
 RenderSettings에 fog 관련 변수들에 접근하고 수정할 수 있음.
 
----
+## 🗿 주의
 
-# 주의
+---
 
 Fog 안켜둔 채로 빌드하면, 게임 내에서 Udon으로 RenderSettings.fog 켜도 적용이 안됌
 

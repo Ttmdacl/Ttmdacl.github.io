@@ -4,8 +4,11 @@ date: 2022-06-29. 13:01
 categories: Programming Programming-Normal
 ---
 
-https://stackoverflow.com/questions/11312111/when-and-where-to-use-gettype-or-typeof
+## 🗿
 
+---
+
+https://stackoverflow.com/questions/11312111/when-and-where-to-use-gettype-or-typeof
 
 
 둘 다 Meta-Information 을 포함한 System.Type 을 가져옴
@@ -59,8 +62,5 @@ MySpecializedTextBox specialized = new MySpecializedTextBox();
 if (specialized is TextBox)       ==> true
 
 if (specialized.GetType() == typeof(TextBox))        ==> false
-
-
-
 
 Casting

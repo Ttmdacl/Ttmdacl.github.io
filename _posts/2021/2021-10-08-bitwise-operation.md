@@ -5,12 +5,16 @@ last_modified_at: 2021-10-10
 categories: Programming Programming-Normal
 ---
 
-# 공통
+## 🗿 공통
+
+---
 
 - 정수형 데이터의 연산만 가능
   - 실수형 데이터는 불가능
 
-# 비트 연산자 (Bitwise Operator)
+## 🗿 비트 연산자 (Bitwise Operator)
+
+---
 
 - `&`
   - AND, 비트 AND 연산자
@@ -64,7 +68,9 @@ categories: Programming Programming-Normal
         ```
   - 여담으로, `~` 는 단항 산술 연산자로 분류됨. (MSDC 기준)
 
-# 비트 시프트 연산자
+## 🗿 비트 시프트 연산자
+
+---
 
 - 주의 할 점
   - 비트 시프트 연산자로 수행된 변환은 오버플로, 언더플로 조건을 지원하지 않음.
@@ -108,7 +114,9 @@ categories: Programming Programming-Normal
     - 253 (00000000 11111101) 을 오른쪽으로 1비트 이동하면,
     - 126 (00000000 01111110) 이 생성됨.
 
-# 할당 연산자
+## 🗿 할당 연산자
+
+---
 
 - 다른 연산자들과 마찬가지로 할당 연산자를 통해 값 변형과 할당을 동시에 할 수 있음.
   - `&=`
@@ -118,7 +126,9 @@ categories: Programming Programming-Normal
   - `<<=`
   - `>>=`
 
-# 참고
+## 🗿 참고
+
+---
 
 - [MSDC](https://docs.microsoft.com/ko-kr/cpp/c-language/c-bitwise-operators?view=msvc-160)
 - [Wikipedia - 비트 연산자](https://ko.wikipedia.org/wiki/%EB%B9%84%ED%8A%B8_%EC%97%B0%EC%82%B0)

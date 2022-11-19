@@ -5,6 +5,10 @@ categories: Programming Programming-Normal
 tags: C CPP
 ---
 
+## 🗿
+
+---
+
 > [C++ C3861](https://docs.microsoft.com/ko-kr/cpp/error-messages/compiler-errors-2/compiler-error-c3861?view=msvc-170)  
 > 에러 : '뭐시깽' 식별자를 찾을 수 없습니다.  
 > 해결 : 함수 위치 밑 선언 확인  

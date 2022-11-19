@@ -4,6 +4,10 @@ date: 2022-06-27. 07:45
 categories: Programming Programming-Normal
 ---
 
+## 🗿
+
+---
+
 HTML 파일에서 Jinja 코드를 주석처리 할 때
 
 > &#60;!--&#123;% Jinja Code %} -->

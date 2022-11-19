@@ -4,6 +4,9 @@ date: 2022-10-04. 10:03
 categories: Log Memo
 ---
 
+## 🗿
+
+---
 Chapter 01 인터넷, Client, Server
 
 1. Client-Server 환경

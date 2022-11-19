@@ -1,8 +1,8 @@
 ---
-title: "생각을 적어주는 기계, 어려운 글쓰기"
+title: "🪦 백업 - 생각을 적어주는 기계, 어려운 글쓰기"
 date: 2021-04-10. 17:10:00
 last_modified_at: 2021-10-07
-categories: Log Thinking
+categories: 🪦Backup
 ---
 {% include old-post.html %}
 

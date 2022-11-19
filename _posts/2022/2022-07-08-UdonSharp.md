@@ -5,6 +5,10 @@ categories: Unity VRC
 tags : Unity VRC
 ---
 
+## 🗿
+
+---
+
 오류 로그는 안뜨는데 작동안할 때  
 호출하고자하는 CustomEvent가 Public 접근 제한자인지 확인한다
 

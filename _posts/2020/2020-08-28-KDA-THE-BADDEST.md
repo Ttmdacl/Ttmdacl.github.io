@@ -1,8 +1,8 @@
 ---
-title: "K/DA - THE BADDEST"
+title: "🪦 백업 - K/DA - THE BADDEST"
 date: 2020-08-28. 04:49:00
 last_modified_at: 2021-10-05
-categories: Log Diary
+categories: 🪦Backup
 ---
 {% include old-post.html %}
 
