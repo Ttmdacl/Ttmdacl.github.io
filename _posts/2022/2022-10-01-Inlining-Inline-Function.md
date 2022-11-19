@@ -1,12 +1,12 @@
 ---
-title: "인라이닝 Inlining, 인라인 함수 Inline Function"
+title: "⛏️ 메모 - 인라이닝 Inlining, 인라인 함수 Inline Function"
 date: 2022-10-01. 10:54
-categories: Programming Programming-Normal
+categories: ⛏️Programming 🕯️Programming-Memo
 tags: C CPP
 ---
 
 
-## 🗿
+## 💎
 
 ---
 함수 호출 시에는 함수 호출 규약에 따라 약간의 [오버헤드](https://ttmdacl.github.io/posts/Overhead/)가 발생  
@@ -19,7 +19,7 @@ tags: C CPP
 따라서 크기가 작은 함수의 경우에는 차라리 함수 호출을 하지 않고 코드를 복사하여서 넣어주는 편이 효율적일 수 있다  
 
 
-## 🗿
+## 💎
 
 ---
 
@@ -43,7 +43,7 @@ inline void PrintHello()
 멤버 함수의 크기가 큰 경우, 코드 복사 시 실행파일의 크기가 커질 수 있으므로 (...?) 클래스 외부에 정의하는 것이 좋다
 
 
-## 🗿
+## 💎
 
 ---
 

@@ -2,7 +2,7 @@
 title: "🪦 백업 - Visual Studio 서식 자동 정렬 단축키"
 date: 2021-03-21. 02:16:00
 last_modified_at: 2021-10-07
-categories: 🪦Backup
+categories: 🪦Backup ⛏️Programming 🕯️Programming-Memo
 ---
 {% include old-post.html %}
 

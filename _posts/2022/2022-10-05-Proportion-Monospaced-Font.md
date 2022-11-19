@@ -1,10 +1,10 @@
 ---
-title: "글꼴 이름의 '체'"
+title: "⛏️ 메모 - 글꼴 이름의 '체'"
 date: 2022-10-05. 11:17
-categories: Diary Momo
+categories: ⛏️Memo
 ---
 
-## 🗿
+## 💎
 
 ---
 폰트 체 붙은 거는 모든 글자 한 칸 크기 같음  

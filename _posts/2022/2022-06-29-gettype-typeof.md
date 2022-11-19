@@ -1,10 +1,10 @@
 ---
-title: "GetType() typeof()"
+title: "⛏️ 메모 - GetType() typeof()"
 date: 2022-06-29. 13:01
-categories: Programming Programming-Normal
+categories: ⛏️Programming 🕯️Programming-Memo
 ---
 
-## 🗿
+## 💎
 
 ---
 

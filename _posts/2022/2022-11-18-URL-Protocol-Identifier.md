@@ -1,10 +1,10 @@
 ---
-title: "URL의 프로토콜 식별자 (Protocol Identifier)"
+title: "⛏️ 메모 - URL의 프로토콜 식별자 (Protocol Identifier)"
 date: 2022-11-18. 10:42
-categories: Programming Programming-Normal
+categories: ⛏️Programming 🕯️Programming-Memo
 ---
 
-## 🗿 프로토콜 식별자 (Protocol Identifier)
+## 💎 프로토콜 식별자 (Protocol Identifier)
 
 ---
 
@@ -17,7 +17,7 @@ categories: Programming Programming-Normal
 그래서 여기에 https 가 적혀있으면 https 프로토콜로 통신을 하겠다는 의미,  
 다른 프로토콜이 적혀 있으면 그 프로토콜로 통신을 하겠다는 의미다  
 
-## 🗿 예시 - TopazChat
+## 💎 예시 - TopazChat
 
 ---
 

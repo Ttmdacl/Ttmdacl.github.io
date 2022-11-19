@@ -1,7 +1,6 @@
 ---
 title: "MainBoard, MotherBoard, SystemBoard"
 date: 2022-10-05. 09:45
-categories: Programming Programming-Normal
 ---
 
 MainBoard, MotherBoard, SystemBoard

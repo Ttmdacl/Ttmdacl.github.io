@@ -1,18 +1,18 @@
 ---
-title: "비트 연산자, 시프트 연산자"
+title: "⛏️ 메모 - 비트 연산자, 시프트 연산자"
 date: 2021-10-08. 19:35:00
 last_modified_at: 2021-10-10
-categories: Programming Programming-Normal
+categories: ⛏️Programming 🕯️Programming-Memo
 ---
 
-## 🗿 공통
+## 💎 공통
 
 ---
 
 - 정수형 데이터의 연산만 가능
   - 실수형 데이터는 불가능
 
-## 🗿 비트 연산자 (Bitwise Operator)
+## 💎 비트 연산자 (Bitwise Operator)
 
 ---
 
@@ -68,7 +68,7 @@ categories: Programming Programming-Normal
         ```
   - 여담으로, `~` 는 단항 산술 연산자로 분류됨. (MSDC 기준)
 
-## 🗿 비트 시프트 연산자
+## 💎 비트 시프트 연산자
 
 ---
 
@@ -114,7 +114,7 @@ categories: Programming Programming-Normal
     - 253 (00000000 11111101) 을 오른쪽으로 1비트 이동하면,
     - 126 (00000000 01111110) 이 생성됨.
 
-## 🗿 할당 연산자
+## 💎 할당 연산자
 
 ---
 
@@ -126,7 +126,7 @@ categories: Programming Programming-Normal
   - `<<=`
   - `>>=`
 
-## 🗿 참고
+## 💎 참고
 
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "곱셈이 나눗셈보다 빠르다"
 date: 2022-10-05. 09:47
-categories: Programming Programming-Normal
 ---
 
 곱셈이 나눗셈보다 빠르다

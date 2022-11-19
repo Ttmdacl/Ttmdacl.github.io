@@ -1,16 +1,16 @@
 ---
-title: "ROW 개발 기록"
+title: "⛏️ 메모 - ROW 개발 기록"
 date: 2022-11-09. 08:18
-categories: Diary
+categories: ⛏️Memo
 ---
 
-## 🗿 ROW 개발 기록
+## 💎 ROW 개발 기록
 
 ---
 > 개발 기록을 하기 시작한 시점을 기준으로, v1.0.0 부터 명칭한다.  
 > 버전 업 기준은 [링크](https://okayoon.tistory.com/entry/%EA%B0%9C%EB%B0%9C-%EB%B2%84%EC%A0%84%ED%91%9C%EA%B8%B0-%EB%8C%80%EB%9E%B5%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)를 참고한다.  
 
-## 🗿 v1.0.1-Alpha
+## 💎 v1.0.1-Alpha
 
 ---
 {% youtube "https://youtu.be/UdpJjhZ6WbI" %}
@@ -18,7 +18,7 @@ categories: Diary
 
 - 멀티 플레이 진행 시, 자신을 제외한 다른 플레이어의 회전값이 제대로 적용되지 않던 문제 수정
 
-## 🗿 v1.0.2-Alpha (최신)
+## 💎 v1.0.2-Alpha (최신)
 
 ---
 
@@ -30,7 +30,7 @@ categories: Diary
 - 추후 적용시키고자하는 SteamWork 와 관련하여, 유니티 프로젝트에 Steam SDK 임포트
 - SteamWork 개발자 등록에 필요한 100$ 결제 (12만원..)
 
-## 🗿 앞으로의 마일스톤
+## 💎 앞으로의 마일스톤
 
 ---
 

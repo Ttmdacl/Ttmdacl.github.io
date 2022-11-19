@@ -1,7 +1,6 @@
 ---
 title: "To Study - Programming, Dev"
 date: 2022-10-17. 14:42
-categories: Log Memo
 ---
 
 인하우스 툴  

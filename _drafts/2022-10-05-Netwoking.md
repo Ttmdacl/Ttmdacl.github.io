@@ -1,7 +1,6 @@
 ---
 title: "-Ware"
 date: 2022-10-05. 09:42
-categories: Programming Programming-Normal
 ---
 
 .NET 은 WCF Windows Communication Foundation, .NET Remoting, XML Web Services 처럼 사용하기 쉬우면서도 강력한 네트워킹 프레임워크 제공  

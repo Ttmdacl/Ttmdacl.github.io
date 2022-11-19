@@ -2,7 +2,7 @@
 title: "🪦 백업 - InvalidOperationException: Collection was modified; enumeration operation may not execute."
 date: 2021-08-13. 22:45:00
 last_modified_at: 2021-10-07
-categories: 🪦Backup
+categories: 🪦Backup ⛏️Programming 🕯️Programming-Memo
 ---
 {% include old-post.html %}
 

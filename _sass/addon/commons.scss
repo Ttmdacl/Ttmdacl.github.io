@@ -1,7 +1,8 @@
 /*
   The common styles
 */
-// @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Source+Sans+Pro:wght@400;600;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&display=swap');
 // @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding:wght@700&display=swap');
 
 @mixin mode-toggle($dark-mode: false) {
@@ -44,10 +45,11 @@ body {
   background: var(--body-bg);
   color: var(--text-color);
   -webkit-font-smoothing: antialiased;
-  font-family: 'Dotum', sans-serif;
+  // font-family: 'Dotum', sans-serif;
   // font-family: 'Nanum Gothic', sans-serif;
   // font-family: 'Nanum Gothic Coding', sans-serif;
   // font-family: 'Nanum Gothic Coding', 'Microsoft Yahei', sans-serif;
+  font-family: 'Nanum Gothic', 'Microsoft Yahei', sans-serif;
 }
 
 /* --- Scrollbar --- */

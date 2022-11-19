@@ -1,8 +1,8 @@
 ---
-title: "⭐ 블로그를 새로 만들었습니다."
+title: "🗿 블로그를 새로 만들었습니다."
 date: 2021-08-30
 last_modified_at: 2021-10-05
-categories: ⭐Stone 🏝️DayStone
+categories: 🗿Stone 🌱DayStone
 ---
 안녕하세요.  
 

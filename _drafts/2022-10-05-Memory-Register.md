@@ -1,7 +1,6 @@
 ---
 title: "Memory, Register"
 date: 2022-10-05. 09:50
-categories: Programming Programming-Normal
 ---
 
 memory (메모리)

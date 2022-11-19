@@ -1,7 +1,6 @@
 ---
 title: "To Study - 3D Modeling, Blender"
 date: 2022-10-17. 14:42
-categories: Log Memo
 ---
 
 리토폴로지  

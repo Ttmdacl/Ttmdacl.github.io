@@ -1,10 +1,10 @@
 ---
-title: 유니티 GUID 보는 법
+title: "⛏️ 메모 - 유니티 GUID 보는 법"
 date: 2022-08-26. 20:12
-categories: Unity Unity-Normal
+categories: ⛏️Unity 🕯️Unity-Normal
 tags: Unity
 ---
-## 🗿
+## 💎
 
 ---
 

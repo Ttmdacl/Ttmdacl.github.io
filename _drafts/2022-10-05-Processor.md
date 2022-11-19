@@ -1,7 +1,6 @@
 ---
 title: "Processor"
 date: 2022-10-05. 09:52
-categories: Programming Programming-Normal
 ---
 
 processor (프로세서)

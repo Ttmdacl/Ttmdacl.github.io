@@ -1,10 +1,10 @@
 ---
-title: "PlayFab, Google Play 연동 과정 중 PlayGamesPlatform 를 찾지못하는 경우"
+title: "⛏️ 메모 - PlayFab, Google Play 연동 중 PlayGamesPlatform 를 찾지못하는 경우"
 date: 2022-11-18. 10:32
-categories: Unity Unity-Normal
+categories: ⛏️Unity 🕯️Unity-Normal
 ---
 
-## 🗿 문제
+## 💎 문제
 
 ---
 
@@ -17,7 +17,7 @@ Assembly 'Assets/ExternalDependencyManager/Editor/1.2.167/Google.IOSResolver.dll
 
 [참고 링크](https://github.com/googlesamples/unity-jar-resolver/issues/441)
 
-## 🗿 해결방법
+## 💎 해결방법
 
 ---
 

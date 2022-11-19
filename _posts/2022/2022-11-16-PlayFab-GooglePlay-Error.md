@@ -1,10 +1,10 @@
 ---
-title: "PlayFab, Google Play 연동 과정 중 에러 발생 시"
+title: "⛏️ 메모 - PlayFab, Google Play 연동 에러"
 date: 2022-11-16. 11:38
-categories: Unity Unity-Normal
+categories: ⛏️Unity 🕯️Unity-Normal
 ---
 
-## 🗿 문제
+## 💎 문제
 
 ---
 
@@ -17,7 +17,7 @@ PlayGamesPlatform.Instance.Authenticate(); 에서 에러 발생
 
 [참고 링크 2](https://community.playfab.com/questions/61120/googleoauthnoidtokenincludedinresponse-when-loggin.html)
 
-## 🗿 해결방법
+## 💎 해결방법
 
 ---
 

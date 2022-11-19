@@ -1,7 +1,6 @@
 ---
 title: "Instruction Cycle"
 date: 2022-10-05. 09:42
-categories: Programming Programming-Normal
 ---
 
 CPU 명령어 사이클 (instruction cycle, 인스트럭션 사이클)

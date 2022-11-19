@@ -1,10 +1,11 @@
 ---
-title: "학교 수업 - Web 프로그래밍"
+title: "⛏️ 메모 - Web 프로그래밍"
 date: 2022-10-04. 10:03
-categories: Log Memo
+categories: ⛏️Memo
 ---
 
-## 🗿
+
+## 💎 학교 수업 타자
 
 ---
 Chapter 01 인터넷, Client, Server

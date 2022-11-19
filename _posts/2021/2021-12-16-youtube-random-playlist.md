@@ -1,9 +1,9 @@
 ---
-title:  "유튜브 재생목록 랜덤재생 사이트"
+title:  "⛏️ 메모 - 유튜브 재생목록 랜덤재생 사이트"
 date: 2021-12-16. 09:18
-categories: Log Memo
+categories: ⛏️Memo
 ---
-## 🗿
+## 💎
 
 ---
 

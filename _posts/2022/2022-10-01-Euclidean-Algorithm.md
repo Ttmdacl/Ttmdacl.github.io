@@ -1,12 +1,12 @@
 ---
-title: 유클리드 알고리즘/호제법
+title: "⛏️ 메모 - 유클리드 알고리즘/호제법"
 date: 2022-10-01. 08:42
-categories: Programming Algorithm
+categories: ⛏️Programming 🕯️Algorithm
 tags: Algorithm
 use_math: true
 ---
 
-## 🗿
+## 💎
 
 ---
 [백준 알고리즘 분류](https://www.acmicpc.net/problemset?sort=ac_desc&algo=26)
@@ -38,7 +38,7 @@ int LCM(int A, int B)
 }
 ```
 
-## 🗿 약수([約](https://hanja.dict.naver.com/#/entry/ccko/ecc0d50d850b485a8361cb39d3995490){: target="_blank"}-, Divisor) | 인수 ([因](https://hanja.dict.naver.com/#/entry/ccko/cec202238f684acf86d21bf343b79aa8){: target="_blank"}-, Factor)
+## 💎 약수([約](https://hanja.dict.naver.com/#/entry/ccko/ecc0d50d850b485a8361cb39d3995490){: target="_blank"}-, Divisor) | 인수 ([因](https://hanja.dict.naver.com/#/entry/ccko/cec202238f684acf86d21bf343b79aa8){: target="_blank"}-, Factor)
 
 ---
 
@@ -49,12 +49,12 @@ int LCM(int A, int B)
 A가 B의 약수 ⇔ B = A * k (k ∈ ℕ)  
 A가 B의 약수 ⇔ A가 B를 나눈다 ⇔ A|B  
 
-## 🗿 공약수, Common Divisor (Factor)  
+## 💎 공약수, Common Divisor (Factor)  
 
 ---
 A, B의 공통된 약수  
 
-## 🗿 최대공약수, GCD, Greatest Common Divisor (Factor)  
+## 💎 최대공약수, GCD, Greatest Common Divisor (Factor)  
 
 ---
 A, B 의 공약수 중에서 가장 큰 수  
@@ -70,7 +70,7 @@ i.e.
 12와 18의 최대공약수 : 6  
 6의 약수 : 1, 2, 3, 6  
 
-## 🗿 서로소 (-[素](https://hanja.dict.naver.com/#/entry/ccko/d16e6665e5f943be80491da2e2d0f3d4){: target="_blank"}, Coprime)
+## 💎 서로소 (-[素](https://hanja.dict.naver.com/#/entry/ccko/d16e6665e5f943be80491da2e2d0f3d4){: target="_blank"}, Coprime)
 
 ---
 
@@ -79,7 +79,7 @@ i.e.
 A, B가 서로소다 ⇔ 공약수(최대공약수)가 1이다 ⇔ 1을 제외한 공약수가 없다 ⇔ 공약수의 개수가 1개이다  
 gcd(A, B) = 1  
 
-## 🗿 유클리드 알고리즘/호제법  
+## 💎 유클리드 알고리즘/호제법  
 
 ---
 
@@ -124,13 +124,13 @@ B = gb = gkb
 
 이를 통해 큰 수 (A, B) 를 작은 수 (B, r) 로 계산할 수 있다.  
 
-## 🗿 공배수, Common Multiple  
+## 💎 공배수, Common Multiple  
 
 ---
 
 A와 B의 공통된 배수
 
-## 🗿 최소공배수, LCM, Least/Lowest Common Multiple  
+## 💎 최소공배수, LCM, Least/Lowest Common Multiple  
 
 ---
 

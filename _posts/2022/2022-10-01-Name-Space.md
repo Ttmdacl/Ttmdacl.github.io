@@ -1,11 +1,11 @@
 ---
-title: "네임스페이스"
+title: "⛏️ 메모 - 네임스페이스"
 date: 2022-10-01. 11:03
-categories: Programming Programming-Normal
+categories: ⛏️Programming 🕯️Programming-Memo
 ---
 
 
-## 🗿
+## 💎
 
 ---
 CPP의 경우
@@ -32,7 +32,7 @@ double Circle::CalcArea()
 
 하나의 프로그램에서 여러 개의 이름 공간을 사용할 수 있다
 
-## 🗿
+## 💎
 
 ---
 

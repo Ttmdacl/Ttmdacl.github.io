@@ -1,7 +1,6 @@
 ---
 title: "To Study - Shader, Unity"
 date: 2022-10-17. 14:42
-categories: Log Memo
 ---
 
 [머테리얼 비교](https://answers.unity.com/questions/175695/comparing-materials.html)  

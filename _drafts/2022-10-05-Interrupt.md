@@ -1,7 +1,6 @@
 ---
 title: "Interrupt (인터럽트)"
 date: 2022-10-05. 09:45
-categories: Programming Programming-Normal
 ---
 
 Interrupt (인터럽트)  
