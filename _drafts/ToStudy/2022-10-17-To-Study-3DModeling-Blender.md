@@ -22,3 +22,4 @@ ALT N 재계산
 원래 5천 해도 3천 쓰고 막그러는데
 천정고 3미타정도로 일본 낮은 뭐시깽이하려면 2700 2400
 휴먼 덴시티  
+[Favela/Slum 블렌더](https://barell4.gumroad.com/l/favelagenerator?recommended_by=search&_ga=2.134772723.349083529.1661141255-339463231.1661141255&_gl=1*dqamgw*_ga*MzM5NDYzMjMxLjE2NjExNDEyNTU.*_ga_6LJN6D94N6*MTY2MTI0ODkzOC4xMC4xLjE2NjEyNDkyNzAuMC4wLjA)

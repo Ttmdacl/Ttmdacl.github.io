@@ -41,3 +41,25 @@ Vertax & Fragment Shader
 [Scene에서 빛 모두 없애기](https://learnandcreate.tistory.com/m/115)
 sssShader  
 [오라](https://blog.naver.com/cra2yboy/222219692268)
+
+### 프로그래밍
+
+---
+
+<https://www.curioustore.com/#!/>
+
+<https://progl.tistory.com/5>
+
+<https://blog.kimtae.xyz/7>
+
+<https://sungjjinkang.github.io/c++/2021/01/28/tiny_optimization.html>
+
+<https://moaimoai.tistory.com/311>
+
+<https://thebook.io/080201/>
+
+<https://www.sysnet.pe.kr/2/0/11805?pageno=0>
+
+<https://jeong-f.tistory.com/96>
+
+<https://developer-talk.tistory.com/220>
