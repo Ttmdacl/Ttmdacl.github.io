@@ -16,14 +16,14 @@ github:
 twitter:
   username: Ttmdacl
 social:
-  name: Ttmdacl
-  email: ttmdacl4444@gmail.com
+  name: 카모뜨린
+  email: mascari4615@gmail.com
   links:
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
 google_analytics:
-  id: 'G-XZJY2H1ZZ8'
+  id: 'G-QRNK1L0YH7'
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
     cache_path:       # the local PV cache data, friendly to visitors from GFW region
