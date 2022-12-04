@@ -126,3 +126,13 @@ processor (프로세서)
 - 그래픽처리장치 (GPU) 도 컴퓨터의 일부이지만 단지 '프로세서' 라는 용어만 사용하였을 때 그래픽 처리 장치를 뜻하는 경우는 아직 많지 않음
 
 - 마이크로 프로세서 > CPU
+
+scammer
+legit
+philanthropist
+deposit
+head out
+jfc
+autograph
+ayt
+bc ad
