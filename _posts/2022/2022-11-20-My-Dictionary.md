@@ -114,9 +114,12 @@ categories: ⛏️Memo
 
 ---
 
+https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8_%ED%95%B8%EB%93%A4%EB%9F%AC
+https://ko.wikipedia.org/wiki/%EB%AA%85%EB%A0%B9_%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0
+
 - CPU에서 프로그램을 실행하고 있을 때 입출력 하드웨어 등의 장치에 예외상황이 발생하여 처리가 필요할 경우에 CPU에게 알려 처리할 수 있도록 하는 것
 
-- != Polling (폴링)
+- != [Polling (폴링)](https://ko.wikipedia.org/wiki/%ED%8F%B4%EB%A7%81_(%EC%BB%B4%ED%93%A8%ED%84%B0_%EA%B3%BC%ED%95%99))
 - 폴링은 하나의 장치 혹은 프로그램이 충돌 회피 또는 동기화 처리 등을 목적으로 다른 장치 혹은 프로그램의 상태를 주기적으로 검사하여 일정한 조건을 만족할 때 소우신 등의 자료처리를 하는 방식
 - 인터럽트는 대상을 주기적으로 감시하여 상황이 발생하면 해당처리 루틴을 실행해 처리하는 폴링과는 달리, 상대가 CPU에게 일을 처리해 달라고 요청하는 수단
 
@@ -211,79 +214,126 @@ P.M. : Post Meridiem, 오후
 
 ---
 
-인하우스 툴  
-튜플
-에라토스테네스의 체  
-Leading 0  
-요세푸스 문제
-Argument <> Parameter  
-URI  
-WebRequest  
-gcc  
-공변성과 반공변성  
-in 제네릭 한정자  
-in 매개변수 한정자  
-커널  
-시암의 방법  
+- 인하우스 툴  
+- 튜플
+- 에라토스테네스의 체  
+- Leading 0  
+- 요세푸스 문제
+- Argument <> Parameter  
+- URI  
+- WebRequest  
+- gcc  
+- 공변성과 반공변성  
+- in 제네릭 한정자  
+- in 매개변수 한정자  
+- 커널  
+- 시암의 방법  
+- System.Random Unity.Random 차이
+- format  
+- vendor  
+- 다중 사용자 시스템, 단일 사용자 시스템  
+- 모뎀  
+- company  
+- solution  
+- centor  
+- suite  
+- address  
+- data transfer  
+- 전송 매체 Transmission Medium  
+- device  
+- Ethernet  
+- Traffic  
+- Internet Communication ?  
+- Cell Phone  
+- OSI  
+- 멀티캐스트  
+- FFT 고속 푸리에 변환  
+- lower_bound, upper_bound
+- cin.fail  cin.eof  여러 줄 입력 끝 판단  
+- scanf printf 도 malloc 을 사용한다 >> 힙 할당이 생긴다  
+- C 메모리 구조  
+- C for문 안에서의 변수 선언 불가능 ? Cpp 컴파일러가 읽어서 가능? 
+- 메모리 누수, 댕글링 포인터  
+- 이 문제를 알아서 해결해주는 것이 GC  
+- 문자열 리터럴 풀 = 전역변수가 저장되는 곳  
+- 문자열 > 프로그램 내에서 어디든지 사용 가능 = 전역 변수  
+- 메모리 접근 > OS  
+- 왜 시작 위치만 저장하느냐> 문자열 자체가 끝에 \0 을 가지고 있기 때문
+- 버퍼 입력버퍼 버퍼링  
+- 주사 방식  
+- scanf 의 scan 주사  
+- HW  
+- 관리 커널  
+- 조게껍데기 셀  
+- 커널 셀 ㅡ 운영체제  
+- 사용자 프로그램  
+- 유저 입력  
+- 입력 명령 해석 셀  
+- 셀에서 실행  
+- 셀 명령러 해석기  
+- Bar Cmd Exe 확장자 차이  
+- 단말기 = 터미널  
+- 맨 마지막, SW에 있어서 최종 소비자  
+- SOP  
+- snippet  
+- 서드파티  
+- pretty much (of)  
+- 너무 이른 최적화  
+- 전처리기 지시어  
+- Reference Counting  
+- STL Vector vs Array  
+- 순람표 룩업 테이블  
+- C# default  
+- Unity curve.Evaluate(  
+- 로렘 입숨(lorem ipsum;  
+- 머신 사이클  
+- 바인딩 타임  
+- 미나렛  
+- “Unfortunately this was not humanly possible”
+- music plays
+- “Until”
+- 아킬레스 거북이  
+- 사실관계적시  
+- b2b  
+- 엠비? 엠바고  
+- 백일하  
+- 화투 배경에 메이드
+- 엘리베이터 문을 열었는데 엘리베이터가 나온다
+- 날씨도장
+- 땅버섯
+- 검은 합창단  
+- 흰색 빨간색, 신 붉은 창  
+- 우두머리 머리 하얀 손 마름  
+- 아이 머리 하얀 손  
+- 신 HW 우두머리 SW  
+- 샤프트 각도
+- 가시 선인장  
+- 초야
+- 파타모르가나  
+- 태양 기둥  
+- 고전  
+- / 프리랜서의 핵심은 자유인데 오히려 반대  
+- 자유는 무한 책임, 무한 책임은 불안, 불안은 필요 이상의 자기 통제  
+- 그럼에도 불구하고, 완벽한 외적 자유를 가지고 산다는 느낌 자체가 좋다  
+- 학창 시절에 선생님 수업 무시하고 내 방식대로 공부하는 느낌과 비슷하다.  
+- / 불안이든 외로움이든 자기 통제의 강박이든 일정 수준을 넘으면 스트레스가 되고  
+- 스트레스는 '반드시' 신체 건강에 영향을 준다고 생각  
+- 길게 보시고 롱런하시길 바라렉요. 다른 말로 건강 챙기면서 하시라는 말이에요  
+- / 뽀모도로 기법  
+- aa ASCII ART
+- 공감주의  
+- / 코드가 더러워도 좋으니 일단 완성을 해라,  
+- 코드 퀄리티는 완성보다 우선시되면 안된다  
+- / 개발 실력을 생각하면 자괴감만 들게 되어있다  
+- 생각해야할 것은 내 개발 실력이 아니라 해결해야한ㄴ 문제  
+- 문제 해결책에 집중할 때 비로서 엉뚱한 우울감에 빠지지 않은  
+- / 공부는 정통으로  
+- 하지만 구현은 꼭 정통일 필요는 없음  
+- / 부전나비  
+- / 동물이나 사람의 행동을 생물학적-진화론적으로 분석해보는 습관이 있다. 물론 그런 분야에 관해 전문적인 지식을 가지고 있거나, 제대로 공부해본 것은 아니지만, 나름의 논리대로 상식선에서 분석해보는 것이다. 예를 들어, 우리는 왜 어두운 곳을 두려워 할까? 우리는 왜 높은 곳을 두려워 할까? 같은 질문을 나름대로 분석해보자면 다음과 같다. 지금처럼 밤만 되면 환하게 세상을 비추는 가로등이나 언제 어디서든 빛을 낼 수 있는 손전등은 저 먼 옛날에는 존재하지 않았고, 때문에 어두운 밤이나, 깊은 동굴은 야생 동물에게 공격당할 위험성이 있었을 것이다. 때문에 어두움을 두려워하지 않은 인류는 살아남기 힘들었고, 반대로 어두움을 두려워한 인류는 상대적으로 살아남을 가능성이 높았다. 높은 곳을 두려워하는 이유도 앞의 이유와 비슷하다. 이런 식으로 내가 가지고 있는 상식 선에서 동물이나 사람의 행동, 본능을 분석하는 것이다. 하지만 어릴 때부터 풀리지 않는 의문이 하나 있다. 과연 사랑이란 무엇일까? 이 질문은 도저히 내 상식 선에서 대답할 수 없었다. 일반적으로, 사랑하게 되는 주된 이유는 외모다. 그런데 외모가 생존에게 주는 이점이 있다고 볼 수 있을까? -> 사회적 동물
+- i love egg
+- 비바리움  
 
-System.Random Unity.Random 차이
-format  
-vendor  
-다중 사용자 시스템, 단일 사용자 시스템  
-모뎀  
-company  
-solution  
-centor  
-suite  
-address  
-data transfer  
-전송 매체 Transmission Medium  
-device  
-Ethernet  
-Traffic  
-Internet Communication ?  
-Cell Phone  
-OSI  
-멀티캐스트  
-FFT 고속 푸리에 변환  
-lower_bound, upper_bound
-cin.fail  cin.eof  여러 줄 입력 끝 판단  
-scanf printf 도 malloc 을 사용한다 >> 힙 할당이 생긴다  
-C 메모리 구조  
-C for문 안에서의 변수 선언 불가능 ? Cpp 컴파일러가 읽어서 가능? 
-메모리 누수, 댕글링 포인터  
-이 문제를 알아서 해결해주는 것이 GC  
-문자열 리터럴 풀 = 전역변수가 저장되는 곳  
-문자열 > 프로그램 내에서 어디든지 사용 가능 = 전역 변수  
-메모리 접근 > OS  
-왜 시작 위치만 저장하느냐> 문자열 자체가 끝에 \0 을 가지고 있기 때문
-버퍼 입력버퍼 버퍼링  
-주사 방식  
-scanf 의 scan 주사  
-HW  
-관리 커널  
-조게껍데기 셀  
-커널 셀 ㅡ 운영체제  
-사용자 프로그램  
-유저 입력  
-입력 명령 해석 셀  
-셀에서 실행  
-셀 명령러 해석기  
-Bar Cmd Exe 확장자 차이  
-단말기 = 터미널
-맨 마지막, SW에 있어서 최종 소비자
-SOP
-snippet 
-서드파티
-pretty much (of)
-너무 이른 최적화
-전처리기 지시어
-Reference Counting
-STL Vector vs Array
-순람표 룩업 테이블
-C# default
-Unity curve.Evaluate(
-로렘 입숨(lorem ipsum;
 ### 💎 복사해서 쓸 것  
 
 ---
@@ -302,34 +352,34 @@ Unity curve.Evaluate(
 - jfc : 지서스 퍼킹 크라이스트
 - autograph : 싸인, 자필
 - ayt : Are You There
-despite
-imprecisions  
-RTFM  
-get rid 제거하다  
-violation 위반  
-predicate  
-approach 학문이나 연구 등에서, 대상에 접근하는 일  
-wears out 닳다
-last indefinitely 무기한 지속
-troubleShooting 문제해결
-straightforward 똑바로
-indicate 나타내다 =? 지시자
-superfluous 불필요한
-biography
-determine
-toc
-narrow
-reasonable  
-arbitary  
-subsequence  
-adjacent  
-nive  
-intuitive
-calibration
-agile
-parse
-sudo
-assuming
+- despite
+- imprecisions  
+- RTFM  
+- get rid 제거하다  
+- violation 위반  
+- predicate  
+- approach 학문이나 연구 등에서, 대상에 접근하는 일  
+- wears out 닳다
+- last indefinitely 무기한 지속
+- troubleShooting 문제해결
+- straightforward 똑바로  
+- indicate 나타내다 =? 지시자  
+- superfluous 불필요한  
+- biography  
+- determine  
+- toc  
+- narrow  
+- reasonable  
+- arbitary  
+- subsequence  
+- adjacent  
+- nive  
+- intuitive  
+- calibration  
+- agile  
+- parse  
+- sudo  
+- assuming  
 
 ### 🎲 곱셈이 나눗셈보다 빠르다
 
@@ -549,38 +599,56 @@ int main()
 }
 ```
 
-### 🎲 무지성 복사  
+### 🎲 var let const  
 
 ---
 
-<https://gall.dcinside.com/mgallery/board/view/?id=game_dev&no=89582&exception_mode=recommend&page=1>  
+JavaScript에 대하여,  
 
-https://likejirak.tistory.com/182  
-https://stackoverflow.com/questions/33090193/linguistic-meaning-of-let-variable-in-programming
-https://stackoverflow.com/questions/1714515/how-can-i-pad-an-int-with-leading-zeros-when-using-cout-operator
+| var | 중복 선언 가능 | |  
+| let | 중복 선언 불가능 | 값 변경 가능 |  
+| const | 중복 선언 불가능 | 값 변경 불가능 |  
+
+중복 선언이 가능하다는 var의 특징 때문에, let이 나온 이후로는 변수 선언 시 let과 const를 주로 사용  
+호이스팅, 스코프 관련해서도 다른 점이 있다고는데, 패스  
+
+- var : Variable
+- let : Let
+- const : Constant
+
+### 🎲 수학 기호
+
+---
+
 http://daplus.net/github-github-markdown-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EC%B2%B4%ED%81%AC-%EB%B0%95%EC%8A%A4-%EB%98%90%EB%8A%94-%EB%88%88%EA%B8%88-%ED%91%9C%EC%8B%9C%EB%A5%BC-%EA%B7%B8%EB%A6%AC%EB%8A%94/
 https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95
 https://namu.wiki/w/%EC%88%98%ED%95%99/%EC%95%BD%EC%96%B4%20%EB%B0%8F%20%EA%B8%B0%ED%98%B8
 https://ko.wikipedia.org/wiki/%EB%85%BC%EB%A6%AC_%EA%B8%B0%ED%98%B8
 https://zetawiki.com/wiki/%EC%9E%90%EC%97%B0%EC%88%98%EC%A7%91%ED%95%A9,_%EC%A0%95%EC%88%98%EC%A7%91%ED%95%A9,_%EC%9C%A0%EB%A6%AC%EC%88%98%EC%A7%91%ED%95%A9,_%EC%8B%A4%EC%88%98%EC%A7%91%ED%95%A9,_%EB%B3%B5%EC%86%8C%EC%88%98%EC%A7%91%ED%95%A9
-https://shoark7.github.io/
-https://poalim.tistory.com/37
-https://namu.wiki/w/%EC%9C%84%EC%83%81%20%EA%B3%B5%EA%B0%84
-https://namu.wiki/w/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99#s-3
-https://namu.wiki/w/2%EC%B0%A8%20%EC%9E%89%EC%97%AC
-https://namu.wiki/w/%ED%95%A9%EB%8F%99%EC%8B%9D
-https://ko.wikipedia.org/wiki/%ED%8F%B4%EB%A7%81_(%EC%BB%B4%ED%93%A8%ED%84%B0_%EA%B3%BC%ED%95%99)
-https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8_%ED%95%B8%EB%93%A4%EB%9F%AC
-https://ko.wikipedia.org/wiki/%EB%AA%85%EB%A0%B9_%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0
+
+### 🎲 VRChat World에서 VideoPlayer로 데이터 불러오기
+
+---
+
 https://feralresearch.org/lab/api-calls-from-inside-vrc/
 https://ask.vrchat.com/t/http-requests/1803
 https://github.com/Roliga/udon-video-decoder
 https://gitlab.com/anfaux/pixel-proxy/-/blob/main/server-node/modules/encode.js
 https://vrchat.com/home/launch?worldId=wrld_7508e408-ba6a-4478-b772-6af430c89286&instanceId=51500~private(usr_74fd4823-008f-4434-969c-c892e7c143e2)~region(eu)~nonce(031b2879-124f-4943-b075-2700f61ee200)
-https://gall.dcinside.com/mgallery/board/view/?id=celeste&no=1177
-https://riskofrain2.fandom.com/wiki/Directors#Spawn_loop
-https://github.com/desktop/desktop/issues/14936
 
+### 🎲 무지성 복사  
+
+---
+
+[VA-11 HALL-A](http://waifubartending.com/)
+
+[블로그](http://wookje.dance/)
+[블로그](https://shoark7.github.io/)
+
+[셀레스트의 보이지 않는 구현](https://gall.dcinside.com/mgallery/board/view/?id=celeste&no=1177)
+[리스크 오브 레인 2 - 소환 루프](https://riskofrain2.fandom.com/wiki/Directors#Spawn_loop)
+[Github Remote Disconnected](https://github.com/desktop/desktop/issues/14936)
+[특정 구역에서의 랜덤 스폰 알고리즘](https://gall.dcinside.com/mgallery/board/view/?id=game_dev&no=89582&exception_mode=recommend&page=1)  
 [게임 시스템 디자인 시작하기](https://www.slideshare.net/ByungChun2/ss-140743429)
 [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
 [메모리구조에서의 자료구조](https://daeun28.github.io/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99-%EC%8A%A4%ED%84%B0%EB%94%94/post17/)
@@ -616,181 +684,125 @@ https://github.com/desktop/desktop/issues/14936
 [Untiy Inspector 에서 List Element 이름 바꾸기](https://forum.unity.com/threads/how-to-change-the-name-of-list-elements-in-the-inspector.448910/)
 [Untiy Inspector 에서 List Element 이름 바꾸기](https://dev-youngil.tistory.com/1)
 [Untiy Inspector 에서 List Element 이름 바꾸기](https://liveupdate.tistory.com/347)
-<https://blogofth-lee.tistory.com/281>
-<https://blog.popekim.com/ko/2012/01/11/compile-time-hash-string-generation.html>
-<https://m.cafe.naver.com/ca-fe/web/cafes/26377973/articles/122961>
-<https://moguwai.tistory.com/entry/C%EA%B3%BC-C%EC%9D%98-%EB%AC%B8%EB%B2%95%EC%A0%81%EC%9D%B8-%EC%B0%A8%EC%9D%B4%EC%A0%90>
-<https://wikidocs.net/>
-<https://blog.ab180.co/posts/open-graph-as-a-website-preview>
-<https://velog.io/@jch9537/URI-URL>
+[Pope Kim - 전처리기](https://blogofth-lee.tistory.com/281)
+[Pope Kim - 문자열 해쉬](https://blog.popekim.com/ko/2012/01/11/compile-time-hash-string-generation.html)
+[C# Foreach](https://m.cafe.naver.com/ca-fe/web/cafes/26377973/articles/122961)
+[C# vs CPP](https://moguwai.tistory.com/entry/C%EA%B3%BC-C%EC%9D%98-%EB%AC%B8%EB%B2%95%EC%A0%81%EC%9D%B8-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+[위키독스 - 온라인 책 공유 플랫폼](https://wikidocs.net/)
+[OpenGraph](https://blog.ab180.co/posts/open-graph-as-a-website-preview)
+[URI-URL](https://velog.io/@jch9537/URI-URL)
+[마인크래프트 지형 생성 알고리즘](https://blog.naver.com/kids1412/222686829072)
 
-### 기술 정보
-<https://helpx.adobe.com/kr/photoshop/using/saving-selections-alpha-channel-masks.html>
-<https://blog.naver.com/kids1412/222686829072>
+[코딩 테스트 및 알고리즘 문제해결 공부 방법](https://www.slideshare.net/SuhyunPark23/kucc-2022-4)
+[[C++] 코딩테스트를 위한 C++ 기본](https://suyeoniii.tistory.com/13)
+[코딩 테스트 입문 (with C++)](https://gamedevlog.tistory.com/6?category=892157)
+[알고리즘 공부 방법/순서](https://baactree.tistory.com/14)
+[[알고리즘] 아호 코라식(Aho-Corasick) 알고리즘](https://pangtrue.tistory.com/305)
+[[알고리즘] KMP(Knuth-Morris-Pratt) 알고리즘](https://pangtrue.tistory.com/303?category=724827)
+[[자료구조] Trie(트라이)](https://pangtrue.tistory.com/331?category=724827)
+[동적 계획법](https://namu.wiki/w/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95)
+[메모이제이션](https://namu.wiki/w/%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98)
+[DP의 기본에 대해서...](https://stonejjun.tistory.com/23)
 
-### 코테
-<https://www.slideshare.net/SuhyunPark23/kucc-2022-4>
-<https://suyeoniii.tistory.com/13>
-<https://gamedevlog.tistory.com/6?category=892157>
-<https://baactree.tistory.com/14>
-<https://pangtrue.tistory.com/305>
-<https://pangtrue.tistory.com/303?category=724827>
-<https://pangtrue.tistory.com/331?category=724827>
-<https://namu.wiki/w/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95>
-<https://namu.wiki/w/%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98>
-<https://stonejjun.tistory.com/23>
+[변수명 짓기](https://www.curioustore.com/#!/)
+[C++ 익명함수 사용법](https://progl.tistory.com/5)
+[함수호출규약](https://blog.kimtae.xyz/7)
+[vscode (visual studio code) tab to space 또는 space to tab 변환](https://moaimoai.tistory.com/311)
+[C#을 다루는 기술](https://thebook.io/080201/)
+[C# - int []와 object []의 차이로 이해하는 제네릭의 필요성](https://www.sysnet.pe.kr/2/0/11805?pageno=0)
+[프로그래밍/C Sharp[C#] 비트연산 처리 모음](https://jeong-f.tistory.com/96)
+[[C#]List 속성별로 정렬](https://developer-talk.tistory.com/220>
 
-### 개인 프로젝트 참고
-<https://kimkitty.net/archives/1638>
-<https://stackoverflow.com/questions/26167387/run-git-commands-from-a-c-sharp-function>
-<https://medium.com/@cuilongchang/unity-tricks-how-to-hide-a-ui-object-behind-a-transparent-ui-2700c12372c1>
-[게임제작에 사용되는 영어단어](https://m.blog.naver.com/PostView.nhn?blogId=nicecapj&logNo=130062005836&proxyReferer=https:%2F%2Fwww.google.com%2F)
-<https://gall.dcinside.com/mgallery/board/view/?id=game_dev&no=11872&list_num=30&search_pos=-15520&s_type=search_subject_memo&s_keyword=%EB%8D%98%EA%B7%B8%EB%A6%AC%EB%93%9C&page=2>
-<https://gall.dcinside.com/mgallery/board/view/?id=game_dev&no=12015&list_num=30&search_pos=-15520&s_type=search_subject_memo&s_keyword=%EB%8D%98%EA%B7%B8%EB%A6%AC%EB%93%9C&page=2>
-<https://gall.dcinside.com/mgallery/board/view/?id=game_dev&no=13690&list_num=30&search_pos=-15520&s_type=search_subject_memo&s_keyword=%EB%8D%98%EA%B7%B8%EB%A6%AC%EB%93%9C&page=2>
-<https://gall.dcinside.com/mgallery/board/view/?id=game_dev&no=14783>
-<https://gall.dcinside.com/mgallery/board/view/?id=game_dev&no=13710&list_num=30&search_pos=-15520&s_type=search_subject_memo&s_keyword=%EB%8D%98%EA%B7%B8%EB%A6%AC%EB%93%9C&page=2>
-<https://gall.dcinside.com/mgallery/board/view/?id=game_dev&no=12155&list_num=30&search_pos=-15520&s_type=search_subject_memo&s_keyword=%EB%8D%98%EA%B7%B8%EB%A6%AC%EB%93%9C&page=2>
-
-<http://wookje.dance/>
-<https://career.nexon.com/common/main>
-<https://unity.com/kr/how-to/tips-optimize-your-visual-studio-tools-when-coding-unity>
-<http://waifubartending.com/>
-<https://hits.seeyoufarm.com/>
-<https://www.inven.co.kr/board/maple/2299/6421191>
-<https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=rhukjin&logNo=222052759608>
-<https://enlqn1010.tistory.com/9>
-<https://www.inven.co.kr/board/maple/2304/9801>
-<https://afsdzvcx123.tistory.com/entry/C-%EB%AC%B8%EB%B2%95-C-Linq-Take-Skip-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B5%AC%EC%97%AD-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0>
-[c# parse convert 차이](https://2-nan.tistory.com/43)
-<http://1st.gamecodi.com/board/zboard.php?id=GAMECODI_Talkdev&no=1461>
-<https://www.csharpstudy.com/CS6/CSharp-using-static-member.aspx>
-<https://stackoverflow.com/questions/63178546/change-line-renderer-alpha-unity>
-<https://www.gamejob.co.kr/Recruit/joblist?menucode=duty&duty=1>
-<https://helenstudy.tistory.com/51>
-<https://funfunhanblog.tistory.com/313>
-<https://twitchemotes.com/channels/49045679>
-<https://www.bensound.com/royalty-free-music/track/memories>
-<https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=riomedevon&logNo=110106228406>
-<https://pokemon.fandom.com/ko/wiki/%EB%B9%8C%EB%A6%AC%EC%A7%80_%EB%B8%8C%EB%A6%AC%EC%A7%80>
-<https://namu.wiki/w/%EB%B9%8C%EB%A6%AC%EC%A7%80%EB%B8%8C%EB%A6%AC%EC%A7%80>
-<https://unity.com/how-to/unity-ui-optimization-tips>
-<https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=dus531400&logNo=140209199573>
-<https://gall.dcinside.com/mgallery/board/view/?id=aoegame&no=16490887>
-<https://www.dogdrip.net/195354145>
-<https://twitter.com/DodgeRollGames/status/593625936131653632>
-<https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life>
-<https://blog.maplestory.nexon.com/>
-<https://fuzzysound.github.io/jekyll-liquid>
 [![Convertio](https://static.convertio.co/img/apple-touch-icon-76x76-precomposed.png)](https://convertio.co/kr/ "Convertio")
-<https://learn.jettelly.com/unity-shader-bible/#buy-now>  
-<https://www.pinterest.co.kr/>
-<https://kitbash3d.com/>
-<https://www.mixamo.com/#/>
-<https://noonnu.cc/index>
-<https://pixabay.com/>
-<https://www.inflearn.com/my-courses>
-<https://3dwarehouse.sketchup.com/>
-<https://yogalayout.com/>
-<https://www.artstation.com/huniartist>
-<http://waifu2x.udp.jp/index.ko.html>
-<https://easings.net/>
-<https://www.dimensions.com/>
-<https://hashcode.co.kr/code_runners>
-<https://www.toptal.com/designers/colorfilter>
-<https://www.toptal.com/developers/gitignore>
-<https://color.adobe.com/ko/create/color-wheel>
-<https://123apps.com/ko/>
-<https://tumblbug.com/>
-<https://johngrib.github.io/wiki/special-chars/?utm_campaign=asb&utm_medium=blog&utm_source=awesome-blogs.petabytes.org>
-<https://discohook.org/>
-<https://lospec.com/palette-list>
-<https://www.fontspace.com/>
-<https://www.zapsplat.com/>
-<https://www.desmos.com/calculator?lang=ko>
-<http://3dapi.com/>
-<https://polyhaven.com/>
-<https://rusalgames.tistory.com/>
-<https://ambientcg.com/>
-<https://cpetry.github.io/NormalMap-Online/>
-<https://www.textures.com/>
-<https://sketchfab.com/feed>
-<https://3dsky.org/>
-<https://www.cgtrader.com/>
-<https://kenney.nl/>
-<https://soundimage.org/>
-<https://opengameart.org/>
-<https://realfavicongenerator.net/>
-<https://jekyllrb.com/docs/front-matter/>
-<https://ansohxxn.github.io/blog/category/>
-### 색
-<https://cssgradient.io/>
-### 소리
-<https://dova-s.jp/>
-<https://soundeffect-lab.info/>
-<https://99sounds.org/>
-<https://soundbible.com/>
-<https://freesound.org/>
-<https://www.freesfx.co.uk/>
-<https://www.soundjay.com/>
-<https://docs.google.com/spreadsheets/d/1GtehmgtnAX2dt5xM8Qv4Kj8-eZtGA5sRuCjw40oLI3o/edit#gid=0>
-<https://sonniss.com/>
-<http://sonniss.com/gameaudiogdc#1605031061361-34588c70-73f2>
-<https://www.playonloop.com/>
-### 이미지
-<https://simpleicons.org/>
-<https://icooon-mono.com/>
+[게임제작에 사용되는 영어단어](https://m.blog.naver.com/PostView.nhn?blogId=nicecapj&logNo=130062005836&proxyReferer=https:%2F%2Fwww.google.com%2F)
+[c# parse convert 차이](https://2-nan.tistory.com/43)
+[[C#] Process 클래스 사용 예제](https://kimkitty.net/archives/1638)
+[Run git commands from a C# function](https://stackoverflow.com/questions/26167387/run-git-commands-from-a-c-sharp-function)
+[Unity Tricks — How to hide a UI object that is behind a transparent UI?](https://medium.com/@cuilongchang/unity-tricks-how-to-hide-a-ui-object-behind-a-transparent-ui-2700c12372c1)
+[던그리드 0](https://gall.dcinside.com/mgallery/board/view/?id=game_dev&no=11872&list_num=30&search_pos=-15520&s_type=search_subject_memo&s_keyword=%EB%8D%98%EA%B7%B8%EB%A6%AC%EB%93%9C&page=2)
+[던그리드 1](https://gall.dcinside.com/mgallery/board/view/?id=game_dev&no=12015&list_num=30&search_pos=-15520&s_type=search_subject_memo&s_keyword=%EB%8D%98%EA%B7%B8%EB%A6%AC%EB%93%9C&page=2)
+[던그리드 2](https://gall.dcinside.com/mgallery/board/view/?id=game_dev&no=13690&list_num=30&search_pos=-15520&s_type=search_subject_memo&s_keyword=%EB%8D%98%EA%B7%B8%EB%A6%AC%EB%93%9C&page=2)
+[던그리드 3](https://gall.dcinside.com/mgallery/board/view/?id=game_dev&no=14783)
+[던그리드 4](https://gall.dcinside.com/mgallery/board/view/?id=game_dev&no=13710&list_num=30&search_pos=-15520&s_type=search_subject_memo&s_keyword=%EB%8D%98%EA%B7%B8%EB%A6%AC%EB%93%9C&page=2)
+[던그리드 5](https://gall.dcinside.com/mgallery/board/view/?id=game_dev&no=12155&list_num=30&search_pos=-15520&s_type=search_subject_memo&s_keyword=%EB%8D%98%EA%B7%B8%EB%A6%AC%EB%93%9C&page=2)
+[넥슨 커리어](https://career.nexon.com/common/main)
+[UNITY에서 코딩 시 VISUAL STUDIO 툴 최적화를 위한 팁](https://unity.com/kr/how-to/tips-optimize-your-visual-studio-tools-when-coding-unity)
+[HITS](https://hits.seeyoufarm.com/)
+[메이플 마켓 원리](https://www.inven.co.kr/board/maple/2299/6421191)
+[C# OCR](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=rhukjin&logNo=222052759608)
+[패킷](https://enlqn1010.tistory.com/9)
+[메이플 패치파일](https://www.inven.co.kr/board/maple/2304/9801)
+[C# Linq Take, Skip](https://afsdzvcx123.tistory.com/entry/C-%EB%AC%B8%EB%B2%95-C-Linq-Take-Skip-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B5%AC%EC%97%AD-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0)
+[Coding 시 변수 선언 위치는 어떻게 잡아주고 계시나요?](http://1st.gamecodi.com/board/zboard.php?id=GAMECODI_Talkdev&no=1461)
+[정적 멤버 직접 사용 (클래스명 생략)](https://www.csharpstudy.com/CS6/CSharp-using-static-member.aspx)
+[Change line renderer alpha unity](https://stackoverflow.com/questions/63178546/change-line-renderer-alpha-unity)
+[게임잡](https://www.gamejob.co.kr/Recruit/joblist?menucode=duty&duty=1)
+[유니티 최적화](https://helenstudy.tistory.com/51)
+[20200219[C#] GetType메서드와 typeof연산자](https://funfunhanblog.tistory.com/313)
+[우왁굳 트위치 이모티콘](https://twitchemotes.com/channels/49045679)
+[포켓몬스터 블랙/화이트 BGM 레파토리](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=riomedevon&logNo=110106228406)
+[포켓몬스터 블랙/화이트 빌리지 브리지](https://pokemon.fandom.com/ko/wiki/%EB%B9%8C%EB%A6%AC%EC%A7%80_%EB%B8%8C%EB%A6%AC%EC%A7%80)
+[포켓몬스터 블랙/화이트 빌리지 브리지](https://namu.wiki/w/%EB%B9%8C%EB%A6%AC%EC%A7%80%EB%B8%8C%EB%A6%AC%EC%A7%80)
+[OPTIMIZATION TIPS FOR UNITY UI](https://unity.com/how-to/unity-ui-optimization-tips)
+[Coroutine과 Time.timeScale 관계](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=dus531400&logNo=140209199573)
+[당신이 보는 게임 화면은 진짜가 아니다.](https://gall.dcinside.com/mgallery/board/view/?id=aoegame&no=16490887)
+[엔터더건전 3D 트윗](https://twitter.com/DodgeRollGames/status/593625936131653632)
+[2D도트게임의 비밀](https://www.dogdrip.net/195354145)
+[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+[메이플스토리 블로그](https://blog.maplestory.nexon.com/)
+[jekyll Liquid](https://fuzzysound.github.io/jekyll-liquid)
+[The Unity Shaders Bible](https://learn.jettelly.com/unity-shader-bible/#buy-now)
 
-### 🎲 무지성 복사 2  
-
----
-
-미나렛  
-“Unfortunately this was not humanly possible”
-music plays
-“Until”
-아킬레스 거북이  
-사실관계적시  
-b2b  
-엠비? 엠바고  
-백일하  
-화투 배경에 메이드
-엘리베이터 문을 열었는데 엘리베이터가 나온다
-날씨도장
-땅버섯
-검은 합창단  
-흰색 빨간색, 신 붉은 창  
-우두머리 머리 하얀 손 마름  
-아이 머리 하얀 손  
-신 HW 우두머리 SW  
-샤프트 각도
-가시 선인장  
-초야
-파타모르가나  
-태양 기둥  
-고전  
-/ 프리랜서의 핵심은 자유인데 오히려 반대  
-자유는 무한 책임, 무한 책임은 불안, 불안은 필요 이상의 자기 통제  
-그럼에도 불구하고, 완벽한 외적 자유를 가지고 산다는 느낌 자체가 좋다  
-학창 시절에 선생님 수업 무시하고 내 방식대로 공부하는 느낌과 비슷하다.  
-/ 불안이든 외로움이든 자기 통제의 강박이든 일정 수준을 넘으면 스트레스가 되고  
-스트레스는 '반드시' 신체 건강에 영향을 준다고 생각  
-길게 보시고 롱런하시길 바라렉요. 다른 말로 건강 챙기면서 하시라는 말이에요  
-/ 뽀모도로 기법  
-aa ASCII ART
-공감주의  
-/ 코드가 더러워도 좋으니 일단 완성을 해라,  
-코드 퀄리티는 완성보다 우선시되면 안된다  
-/ 개발 실력을 생각하면 자괴감만 들게 되어있다  
-생각해야할 것은 내 개발 실력이 아니라 해결해야한ㄴ 문제  
-문제 해결책에 집중할 때 비로서 엉뚱한 우울감에 빠지지 않은  
-/ 공부는 정통으로  
-하지만 구현은 꼭 정통일 필요는 없음  
-/ 부전나비  
-/ 동물이나 사람의 행동을 생물학적-진화론적으로 분석해보는 습관이 있다. 물론 그런 분야에 관해 전문적인 지식을 가지고 있거나, 제대로 공부해본 것은 아니지만, 나름의 논리대로 상식선에서 분석해보는 것이다. 예를 들어, 우리는 왜 어두운 곳을 두려워 할까? 우리는 왜 높은 곳을 두려워 할까? 같은 질문을 나름대로 분석해보자면 다음과 같다. 지금처럼 밤만 되면 환하게 세상을 비추는 가로등이나 언제 어디서든 빛을 낼 수 있는 손전등은 저 먼 옛날에는 존재하지 않았고, 때문에 어두운 밤이나, 깊은 동굴은 야생 동물에게 공격당할 위험성이 있었을 것이다. 때문에 어두움을 두려워하지 않은 인류는 살아남기 힘들었고, 반대로 어두움을 두려워한 인류는 상대적으로 살아남을 가능성이 높았다. 높은 곳을 두려워하는 이유도 앞의 이유와 비슷하다. 이런 식으로 내가 가지고 있는 상식 선에서 동물이나 사람의 행동, 본능을 분석하는 것이다. 하지만 어릴 때부터 풀리지 않는 의문이 하나 있다. 과연 사랑이란 무엇일까? 이 질문은 도저히 내 상식 선에서 대답할 수 없었다. 일반적으로, 사랑하게 되는 주된 이유는 외모다. 그런데 외모가 생존에게 주는 이점이 있다고 볼 수 있을까? -> 사회적 동물
-i love egg
-비바리움  
-<https://blog.naver.com/shalacho/222114284512>
+[Bensound](https://www.bensound.com/royalty-free-music/track/memories)
+[Kitbash3D](https://kitbash3d.com/)
+[Mixamo](https://www.mixamo.com/#/)
+[Pixabay](https://pixabay.com/)
+[3DWareHouse](https://3dwarehouse.sketchup.com/)
+[Waifu2x](http://waifu2x.udp.jp/index.ko.html)
+[Easings - 커브](https://easings.net/)
+[Dimensions - 휴먼덴시티](https://www.dimensions.com/)
+[](https://hashcode.co.kr/code_runners)
+[](https://www.toptal.com/designers/colorfilter)
+[](https://www.toptal.com/developers/gitignore)
+[](https://color.adobe.com/ko/create/color-wheel)
+[](https://123apps.com/ko/)
+[](https://tumblbug.com/)
+[](https://johngrib.github.io/wiki/special-chars/?utm_campaign=asb&utm_medium=blog&utm_source=awesome-blogs.petabytes.org)
+[](https://discohook.org/)
+[](https://lospec.com/palette-list)
+[](https://www.fontspace.com/)
+[](https://www.zapsplat.com/)
+[](https://www.desmos.com/calculator?lang=ko)
+[](http://3dapi.com/)
+[](https://polyhaven.com/)
+[](https://rusalgames.tistory.com/)
+[](https://ambientcg.com/)
+[](https://cpetry.github.io/NormalMap-Online/)
+[Textures](https://www.textures.com/)
+[Sketchfab](https://sketchfab.com/feed)
+[3DSky](https://3dsky.org/)
+[CGTrader](https://www.cgtrader.com/)
+[](https://kenney.nl/)
+[](https://soundimage.org/)
+[](https://opengameart.org/)
+[](https://realfavicongenerator.net/)
+[](https://jekyllrb.com/docs/front-matter/)
+[](https://ansohxxn.github.io/blog/category/)
+[CSSGradient](https://cssgradient.io/)
+[Dova-s](https://dova-s.jp/)
+[SoundEffect-Lab](https://soundeffect-lab.info/)
+[99Sounds](https://99sounds.org/)
+[SoundBible](https://soundbible.com/)
+[FreeSound](https://freesound.org/)
+[FreeSFX](https://www.freesfx.co.uk/)
+[SoundJay](https://www.soundjay.com/)
+[사운드 리소스 모음](https://docs.google.com/spreadsheets/d/1GtehmgtnAX2dt5xM8Qv4Kj8-eZtGA5sRuCjw40oLI3o/edit#gid=0)
+[Soniss](https://sonniss.com/)
+[Sonniss](http://sonniss.com/gameaudiogdc#1605031061361-34588c70-73f2)
+[PlayOnLoop](https://www.playonloop.com/)
+[SimpleIcons](https://simpleicons.org/)
+[IcoonMono - 아이콘](https://icooon-mono.com/)
+[자극에 무뎌지는 감각](https://blog.naver.com/shalacho/222114284512)
 [문서로 먼저 적어라](https://twitter.com/DungeonKim/status/1136504723173863424)
 [UI](https://imgur.io/gallery/XOT47)
 ["](https://blog.naver.com/blancleo/220606789517)
@@ -805,10 +817,6 @@ i love egg
 [VRChat 공연하시는 아티스트](http://meme-x.jp/)
 [모션테이블](http://foxcodex.html.xdomain.jp/)
 [바이트 비트 Beat](https://games.greggman.com/game/html5-bytebeat/)
-
-### 🎲 무지성 복사 3  
-
----
 
 [머테리얼 비교](https://answers.unity.com/questions/175695/comparing-materials.html)  
 [머테리얼 인스턴싱](https://wergia.tistory.com/328)  
@@ -848,25 +856,3 @@ Vertax & Fragment Shader
 [Scene에서 빛 모두 없애기](https://learnandcreate.tistory.com/m/115)
 sssShader  
 [오라](https://blog.naver.com/cra2yboy/222219692268)
-
-### 프로그래밍
-
----
-
-<https://www.curioustore.com/#!/>
-
-<https://progl.tistory.com/5>
-
-<https://blog.kimtae.xyz/7>
-
-<https://sungjjinkang.github.io/c++/2021/01/28/tiny_optimization.html>
-
-<https://moaimoai.tistory.com/311>
-
-<https://thebook.io/080201/>
-
-<https://www.sysnet.pe.kr/2/0/11805?pageno=0>
-
-<https://jeong-f.tistory.com/96>
-
-<https://developer-talk.tistory.com/220>
