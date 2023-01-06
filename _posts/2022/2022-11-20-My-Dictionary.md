@@ -628,6 +628,15 @@ StringBuilder Queue Stack 도 마찬가지
 초기 사이즈가 예측 불가능하거나 Add Remove가 빈번하면 Linked List 추천  
 List 요소 지우면 뒤에 있는 요소 한칸 땡겨서 모두 다시 복사  
 
+### 🎲 C# [접근 한정자/Access Modifier](https://learn.microsoft.com/ko-kr/dotnet/csharp/language-reference/keywords/access-modifiers)  
+
+---
+
+public  
+protected  
+private  
+internal : 동일한 어셈블리 내에서만 접근 가능  
+
 ### 🎲 C++ time  
 
 ---
@@ -667,21 +676,21 @@ JavaScript에 대하여,
 
 ---
 
-http://daplus.net/github-github-markdown-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EC%B2%B4%ED%81%AC-%EB%B0%95%EC%8A%A4-%EB%98%90%EB%8A%94-%EB%88%88%EA%B8%88-%ED%91%9C%EC%8B%9C%EB%A5%BC-%EA%B7%B8%EB%A6%AC%EB%8A%94/
-https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95
-https://namu.wiki/w/%EC%88%98%ED%95%99/%EC%95%BD%EC%96%B4%20%EB%B0%8F%20%EA%B8%B0%ED%98%B8
-https://ko.wikipedia.org/wiki/%EB%85%BC%EB%A6%AC_%EA%B8%B0%ED%98%B8
-https://zetawiki.com/wiki/%EC%9E%90%EC%97%B0%EC%88%98%EC%A7%91%ED%95%A9,_%EC%A0%95%EC%88%98%EC%A7%91%ED%95%A9,_%EC%9C%A0%EB%A6%AC%EC%88%98%EC%A7%91%ED%95%A9,_%EC%8B%A4%EC%88%98%EC%A7%91%ED%95%A9,_%EB%B3%B5%EC%86%8C%EC%88%98%EC%A7%91%ED%95%A9
+[링크1](http://daplus.net/github-github-markdown-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EC%B2%B4%ED%81%AC-%EB%B0%95%EC%8A%A4-%EB%98%90%EB%8A%94-%EB%88%88%EA%B8%88-%ED%91%9C%EC%8B%9C%EB%A5%BC-%EA%B7%B8%EB%A6%AC%EB%8A%94/)
+[링크2](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95)
+[링크3](https://namu.wiki/w/%EC%88%98%ED%95%99/%EC%95%BD%EC%96%B4%20%EB%B0%8F%20%EA%B8%B0%ED%98%B8)
+[링크4](https://ko.wikipedia.org/wiki/%EB%85%BC%EB%A6%AC_%EA%B8%B0%ED%98%B8)
+[링크5](https://zetawiki.com/wiki/%EC%9E%90%EC%97%B0%EC%88%98%EC%A7%91%ED%95%A9,_%EC%A0%95%EC%88%98%EC%A7%91%ED%95%A9,_%EC%9C%A0%EB%A6%AC%EC%88%98%EC%A7%91%ED%95%A9,_%EC%8B%A4%EC%88%98%EC%A7%91%ED%95%A9,_%EB%B3%B5%EC%86%8C%EC%88%98%EC%A7%91%ED%95%A9)
 
 ### 🎲 VRChat World에서 VideoPlayer로 데이터 불러오기
 
 ---
 
-https://feralresearch.org/lab/api-calls-from-inside-vrc/
-https://ask.vrchat.com/t/http-requests/1803
-https://github.com/Roliga/udon-video-decoder
-https://gitlab.com/anfaux/pixel-proxy/-/blob/main/server-node/modules/encode.js
-https://vrchat.com/home/launch?worldId=wrld_7508e408-ba6a-4478-b772-6af430c89286&instanceId=51500~private(usr_74fd4823-008f-4434-969c-c892e7c143e2)~region(eu)~nonce(031b2879-124f-4943-b075-2700f61ee200)
+[링크1](https://feralresearch.org/lab/api-calls-from-inside-vrc/)
+[링크2](https://ask.vrchat.com/t/http-requests/1803)
+[링크3](https://github.com/Roliga/udon-video-decoder)
+[링크4](https://gitlab.com/anfaux/pixel-proxy/-/blob/main/server-node/modules/encode.js)
+[링크5](https://vrchat.com/home/launch?worldId=wrld_7508e408-ba6a-4478-b772-6af430c89286&instanceId=51500~private(usr_74fd4823-008f-4434-969c-c892e7c143e2)~region(eu)~nonce(031b2879-124f-4943-b075-2700f61ee200))
 
 ### 🎲 무지성 복사  
 
