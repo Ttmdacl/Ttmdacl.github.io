@@ -4,13 +4,14 @@ date: 2023-01-07. 23:22
 categories: ⛏️Memo
 ---
 
-### 💎 The Swap Trick
+### 💎 The Swap Trick : 메모리 재할당
 
 ---
 
 [참고0](https://d-yong.tistory.com/74)  
 [참고1](https://www.appsloveworld.com/cplus/100/357/the-swap-trick-stl)  
 [참고2](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sorkelf&logNo=221039099285)
+[참고3](https://sorting.tistory.com/9)
 
 읽기 좋은 코드가 좋은 코드다의 84p 에서 언급된 The Swap Trick.  
 아래는 책에 나온 예제 코드다.  
@@ -43,7 +44,7 @@ vector에 할당된 메모리는 해제되지 않는다!
 계속해서 사용하는 vector가 아니라면 이렇게 쓸 필요는 없을 것 같다.  
 
 책에서 나오는 The Swap Trick 은 이를 의미하는 것 같고,  
-검색해보니 다른 것도 있는 것 같다.
+검색해보니 다른 것도 있는 것 같다.  
 
 ```cpp
 vector<float>(data).swap(data);
@@ -63,3 +64,7 @@ vector는 용량이 꽉 찼을때 스스로 메모리를 재할당하여 일정 
 C++ 11 에서는 이와 같은 기능을 하는 shrink_to_fit() 함수가 있다고 하는데,  
 이도 새로운 vector를 만들고, 복사하는 것이기에,  
 큰 vector에 대하여 사용할 경우, CPU 오버헤드를 한 번 고민해봐야 한다.  
+
+또, 방금 언급한 것 처럼 과도한 오버헤드가 발생할 수 있기에,  
+shrink_to_fit() 함수는 non-binding 함수 (모든 컴파일러에서 반드시 구현되지는 않는) 이라고 한다.  
+때문에 이전에 사용하던 컴파일러와의 호환성 역시 생각해야 할 것이다.  
