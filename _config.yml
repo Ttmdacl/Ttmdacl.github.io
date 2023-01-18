@@ -4,10 +4,11 @@ theme_mode: dark
 lang: ko-KR
 timezone: Asia/Seoul
 
-title: 카모뜨린
-tagline: 의 비밀 아지트
-description: TIL, MEMO 그리고 LOG를 적는 곳
+title: 카모뜨린의 비밀 아지트
+tagline: TIL, MEMO 그리고 LOG를 적는 곳
+description: 
 avatar: /assets/img/ProfileImage.png
+logo: /assets/img/ProfileImage.png
 url: 'https://Ttmdacl.github.io'
 baseurl:
 
@@ -36,7 +37,7 @@ img_cdn: ''
 
 toc: true
 
-paginate: 5
+paginate: 12
 
 kramdown:
   syntax_highlighter: rouge
