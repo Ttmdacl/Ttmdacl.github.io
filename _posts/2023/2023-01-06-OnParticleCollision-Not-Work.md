@@ -1,5 +1,5 @@
 ---
-title: "⛏️ 메모 - OnParticleCollision 이 호출되지 않을 때"
+title: "⛏️ OnParticleCollision 이 호출되지 않을 때"
 date: 2023-01-06. 23:46
 categories: ⛏️Memo
 ---

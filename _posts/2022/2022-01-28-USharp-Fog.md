@@ -1,5 +1,5 @@
 ---
-title:  "⛏️ 메모 - VRC 안개 (Fog)"
+title:  "⛏️ VRC 안개 (Fog)"
 date: 2022-01-28. 09:48
 categories: ⛏️Unity 🕯️VRC
 tags: Unity VRC

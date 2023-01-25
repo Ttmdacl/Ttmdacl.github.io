@@ -1,5 +1,5 @@
 ---
-title: "⛏️ 메모 - ROW 개발 기록"
+title: "⛏️ ROW 개발 기록"
 date: 2022-11-09. 08:18
 categories: ⛏️Memo
 ---

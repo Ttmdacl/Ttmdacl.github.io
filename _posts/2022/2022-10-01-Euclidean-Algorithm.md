@@ -1,5 +1,5 @@
 ---
-title: "⛏️ 메모 - 유클리드 알고리즘/호제법"
+title: "⛏️ 유클리드 알고리즘/호제법"
 date: 2022-10-01. 08:42
 categories: ⛏️Programming 🕯️Algorithm
 tags: Algorithm

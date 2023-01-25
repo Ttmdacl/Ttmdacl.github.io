@@ -1,5 +1,5 @@
 ---
-title: "⛏️ 메모 - VRC 월드 유니티 테스트 시, ContextMenu Attribute"
+title: "⛏️ VRC 월드 유니티 테스트 시, ContextMenu Attribute"
 date: 2022-06-28. 02:41
 categories: ⛏️Unity 🕯️VRC
 tags: Unity VRC

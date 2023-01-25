@@ -1,5 +1,5 @@
 ---
-title: "⛏️ 메모 - Yoda Notation"
+title: "⛏️ Yoda Notation"
 date: 2023-01-08. 18:08
 categories: ⛏️Memo
 ---

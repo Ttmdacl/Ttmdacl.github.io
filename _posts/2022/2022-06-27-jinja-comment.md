@@ -1,5 +1,5 @@
 ---
-title: "⛏️ 메모 - HTML에서 Jinja 주석 처리 할 때"
+title: "⛏️ HTML에서 Jinja 주석 처리 할 때"
 date: 2022-06-27. 07:45
 categories: ⛏️Programming 🕯️Programming-Memo
 ---

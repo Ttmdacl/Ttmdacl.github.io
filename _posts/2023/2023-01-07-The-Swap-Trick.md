@@ -1,5 +1,5 @@
 ---
-title: "⛏️ 메모 - The Swap Trick"
+title: "⛏️ The Swap Trick"
 date: 2023-01-07. 23:22
 categories: ⛏️Memo
 ---

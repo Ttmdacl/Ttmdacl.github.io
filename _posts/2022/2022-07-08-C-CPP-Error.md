@@ -1,5 +1,5 @@
 ---
-title: "⛏️ 메모 - C / C++ 에러"
+title: "⛏️ C / C++ 에러"
 date: 2022-07-08. 13:54
 categories: ⛏️Programming 🕯️Programming-Memo
 tags: C CPP

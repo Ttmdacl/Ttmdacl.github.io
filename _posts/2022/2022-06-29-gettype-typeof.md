@@ -1,5 +1,5 @@
 ---
-title: "⛏️ 메모 - GetType() typeof()"
+title: "⛏️ GetType() typeof()"
 date: 2022-06-29. 13:01
 categories: ⛏️Programming 🕯️Programming-Memo
 ---

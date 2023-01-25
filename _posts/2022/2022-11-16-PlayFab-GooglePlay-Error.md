@@ -1,5 +1,5 @@
 ---
-title: "⛏️ 메모 - PlayFab, Google Play 연동 에러"
+title: "⛏️ PlayFab, Google Play 연동 에러"
 date: 2022-11-16. 11:38
 categories: ⛏️Unity 🕯️Unity-Normal
 ---

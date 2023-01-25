@@ -1,5 +1,5 @@
 ---
-title: "⛏️ 메모 - U# 자주 하는 질문 (자문자답)"
+title: "⛏️ U# 자주 하는 질문 (자문자답)"
 date: 2022-07-08. 14:31
 categories: ⛏️Unity 🕯️VRC
 tags : Unity VRC
