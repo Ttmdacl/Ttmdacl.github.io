@@ -9,7 +9,7 @@ tags: C CPP
 ## 💎
 
 ---
-함수 호출 시에는 함수 호출 규약에 따라 약간의 [오버헤드](https://ttmdacl.github.io/posts/Overhead/)가 발생  
+함수 호출 시에는 함수 호출 규약에 따라 약간의 [오버헤드](https://mascari4615.github.io/posts/Overhead/)가 발생  
 
 함수 호출 전 : 모든 레지스터 (CPU안의 저장 공간)가 저장되어야 하고 인수들을 복사되어야 한다  
 함수 호출 후 : 레지스터들이 다시 복구
