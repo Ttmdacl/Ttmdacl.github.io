@@ -1,7 +1,7 @@
 ---
-title: "⛏️ 상수 이름에 접두사 k, 헝가리안 표기법"
+title: "🕯️ 상수 이름에 접두사 k, 헝가리안 표기법"
 date: 2023-01-06. 23:46
-categories: ⛏️Memo
+categories: ⛏️Memo 🕯️Computer
 ---
 
 ### 💎 상수 이름에 접두사 k

@@ -127,3 +127,10 @@ Specular -> 하이라이트 영역
 
 Target  
 Pole Target  
+
+### 💎 MMD 모션
+
+---
+
+[bowlroll](https://bowlroll.net/file/204008)  
+[nikoniko](https://www.nicovideo.jp/watch/sm36186539)  

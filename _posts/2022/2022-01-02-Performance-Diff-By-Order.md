@@ -1,7 +1,7 @@
 ---
-title: "⛏️ 연산 순서에 따른 퍼포먼스 차이"
+title: "🕯️ 연산 순서에 따른 퍼포먼스 차이"
 date: 2022-01-02. 12:07
-categories: ⛏️Programming 🕯️Programming-Memo
+categories: ⛏️Memo 🕯️Computer
 ---
 ## 💎
 

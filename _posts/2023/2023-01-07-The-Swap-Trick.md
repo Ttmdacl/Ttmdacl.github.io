@@ -1,7 +1,7 @@
 ---
-title: "⛏️ The Swap Trick"
+title: "🕯️ The Swap Trick"
 date: 2023-01-07. 23:22
-categories: ⛏️Memo
+categories: ⛏️Memo 🕯️Computer
 ---
 
 ### 💎 The Swap Trick : 메모리 재할당

@@ -1,7 +1,7 @@
 ---
-title: "⛏️ Short-Circuit Evaluation"
+title: "🕯️ Short-Circuit Evaluation"
 date: 2023-01-09. 22:02
-categories: ⛏️Memo
+categories: ⛏️Memo 🕯️Computer
 ---
 
 ### 💎 Short-Circuit Evaluation

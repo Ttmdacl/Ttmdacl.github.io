@@ -1,8 +1,8 @@
 ---
-title: "⛏️ 비트 연산자, 시프트 연산자"
+title: "🕯️ 비트 연산자, 시프트 연산자"
 date: 2021-10-08. 19:35:00
 last_modified_at: 2021-10-10
-categories: ⛏️Programming 🕯️Programming-Memo
+categories: ⛏️Memo 🕯️Computer
 ---
 
 ## 💎 공통

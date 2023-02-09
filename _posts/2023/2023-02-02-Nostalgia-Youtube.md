@@ -142,6 +142,8 @@ categories: ⛏️Memo
 세 분 다 잔잔한 느낌으로 재밌게 봤던 것 같은데,  
 앞에 두 분은 영상을 내리신건가 검색해도 나오지가 않는다.  
 
+바위골렘 황혼의 숲, 연금술사? 막 샤드 나오는 그런 모드 재밌었다.  
+
 `공갈`  
 
 서버 테러랑 마검 탈출맵 재밌게 봤었던 것 같다.  
@@ -674,6 +676,7 @@ K/DA + Lofi + 레전드 오브 룬테라
 
 [Wonder Girls(원더걸스) "NOBODY (Kor. Ver)" M/V](https://youtu.be/QZBn1e9pr2Q)  
 [Girls' Generation 소녀시대 'Gee' MV](https://youtu.be/U7mPqycQ0tQ)  
+[Girls' Generation 소녀시대 '훗 (Hoot)' MV](https://youtu.be/F4-SxcCO5d0)  
 올레 TV인가, 우리집 TV에서 뮤직비디오를 틀 수 있었는데  
 그때 많이 틀었던 노래들  
 
@@ -780,6 +783,9 @@ MMD
 
 [Matter of Time](https://youtu.be/FSckPjMGzm0)  
 롤챔스였나 LCK였나  
+
+[Japanese Konbini Store song](https://youtu.be/ziX1oQRiA3w)  
+늪지대 패러디 영상으로 먼저 알게되었었다.  
 
 ---
 
