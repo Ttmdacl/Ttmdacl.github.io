@@ -90,12 +90,6 @@ View Transform
 Filmic (Default) : Photorealistic 실사  
 Standard : Non-Photorealistic  
 
-### 💎 빛 그림자
-
----
-
-Light -> Shadow  
-
 ### 💎 BSDF
 
 ---
@@ -113,14 +107,6 @@ BTDF
 Bidirectional Transmittance  Distribution Function  
 빛이 어떤 방향으로 투과가 되는지  
 
-### 💎 프레넬 효과
-
----
-
-Layer Weight, Fancing  
-매트하다  
-Specular -> 하이라이트 영역  
-
 ### 💎 FK IK
 
 ---
@@ -134,3 +120,12 @@ Pole Target
 
 [bowlroll](https://bowlroll.net/file/204008)  
 [nikoniko](https://www.nicovideo.jp/watch/sm36186539)  
+
+### 💎 Memo
+
+---
+
+프레넬 효과  
+Layer Weight, Fancing  
+매트하다  
+Specular -> 하이라이트 영역  
