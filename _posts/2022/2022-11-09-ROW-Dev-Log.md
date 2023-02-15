@@ -31,7 +31,7 @@ categories: ⛏️Memo
 - 추후 적용시키고자하는 SteamWork 와 관련하여, 유니티 프로젝트에 Steam SDK 임포트
 - SteamWork 개발자 등록에 필요한 100$ 결제 (12만원..)
 
-### 💎 v1.0.7 (최신)
+### 💎 v1.0.7
 
 ---
 
@@ -55,11 +55,22 @@ categories: ⛏️Memo
 - 임시 스테이지 모델
 - 임시 캐릭터 모델, 애니메이션
 
+### 💎 v1.0.8 (최신)
+
+---
+
+- 보스 이벤트
+- 보스 몬스터 움직임이 Y축으로 떨리던 문제 해결  
+  - 몬스터들은 모두 NavMesh로 움직이는데,  
+  - 보스 몬스터 프리팹의 RigidBody Freeze Position 이 체크 해제되어 있어서 계속 아래로 떨어지던 거였음  
+- 보스 몬스터 UI (이름, 설명, 체력바)
+- 다음 스테이지로의 이동  
+
 ### 💎 앞으로의 마일스톤
 
 ---
 
-- 텔레포트 이벤트, 다음 스테이지로의 이동  
+- 텔레포트 이벤트
 - Lobby 캐릭터 선택 인 게임 적용  
 - 인 게임 Result  
 - Steam 연동? (인증 및 업적 관련, PlayFab)
@@ -77,5 +88,4 @@ categories: ⛏️Memo
 - 몬스터 오브젝트가 풀에서 다시 스폰되면 해당 몬스터의 HP Bar가 보이지 않음  
 - 상자, 제단, 텔레포터 위치 싱크  
   - 현재 Network Transform 으로 땜빵되어 있음  
-- 보스 몬스터 움직임이 Y축으로 떨림  
-  - NavMesh Agent 세팅 관련 문제로 예상됨  
+- 씬이 넘어가면 풀링 오브젝트들이 전부 Destroy 되어서 'MissingReferenceException: The object of type 'NetworkObject' has been destroyed but you are still trying to access it.' 에러 발생
