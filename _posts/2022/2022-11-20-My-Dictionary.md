@@ -395,8 +395,6 @@ categories: ⛏️Memo
   - [URI-URL](https://velog.io/@jch9537/URI-URL)  
   - [마인크래프트 지형 생성 알고리즘](https://blog.naver.com/kids1412/222686829072)  
   - [코딩 테스트 및 알고리즘 문제해결 공부 방법](https://www.slideshare.net/SuhyunPark23/kucc-2022-4)  
-  - [[C++] 코딩테스트를 위한 C++ 기본](https://suyeoniii.tistory.com/13)  
-  - [코딩 테스트 입문 (with C++)](https://gamedevlog.tistory.com/6?category=892157)  
   - [알고리즘 공부 방법/순서](https://baactree.tistory.com/14)  
   - [[알고리즘] 아호 코라식(Aho-Corasick) 알고리즘](https://pangtrue.tistory.com/305)  
   - [[알고리즘] KMP(Knuth-Morris-Pratt) 알고리즘](https://pangtrue.tistory.com/303?category=724827)  
