@@ -214,17 +214,6 @@ categories: ⛏️Memo
 - 대장장이?  
 - 브라우저 확장으로  
 - 이모티콘 점수  
-- ++ ++ a O, a ++ ++ X  
-  - 오른쪽에서 왼쪽으로 실행되기 대문에  
-  - 무튼 연산자 만들 때 그래서 위쪽은 되게, 아래쪽은 안되게 만들어야함  
-  - 이걸 간단히 구현하게 해주는 방법이 있음  
-  - 객체& operator++() 에서 &을 붙여주는 이유  
-  - 예를 들어 Temp a = v1 + v2 를 봤을 때  
-  - v1 + v1 의 결과값은 임시 객체임, v1이나 v2의 실체 객체가 아니라는 것  
-  - 이를 바탕으로 ++ ++ a 를 보면  
-  - 객체를 반환값으로 보내면  
-  - a = a + 1 에서 a(왼쪽) 를 반환하지 않고 a + 1(오른쪽) 의 임시 객체를 보내버림  
-  - 그래서 자기 자신을 반환하기 위해 레퍼런스를 보냄  
 - Meridiem (라틴어) : midday, 정오  
 
 - 곱셈이 나눗셈보다 빠르다
@@ -328,22 +317,6 @@ categories: ⛏️Memo
   - protected  
   - private  
   - internal : 동일한 어셈블리 내에서만 접근 가능  
-
-- C++ time  
-
-```cpp
-#define _CRT_SECURE_NO_WARNINGS
-#include <iostream>
-#include <time.h>
-using namespace std;
-int main()
-{
-    time_t cur;
-    time(&cur);
-    tm* gmTM = gmtime(&cur);
-    printf("%d\n%02d\n%02d", 1900 + gmTM->tm_year, gmTM->tm_mon + 1, gmTM->tm_mday);
-}
-```
 
 | var | 중복 선언 가능 | |  
 | let | 중복 선언 불가능 | 값 변경 가능 |  
