@@ -89,3 +89,31 @@ categories: ⛏️Memo
 - 상자, 제단, 텔레포터 위치 싱크  
   - 현재 Network Transform 으로 땜빵되어 있음  
 - 씬이 넘어가면 풀링 오브젝트들이 전부 Destroy 되어서 'MissingReferenceException: The object of type 'NetworkObject' has been destroyed but you are still trying to access it.' 에러 발생
+
+---
+
+움직임 미끄러지는 것 없이 -> 새로 만들어야 할 것 같은? NetworkTransform 으로 바꾸고 직접 계산 하는 느낌으로  
+로딩  
+땜빵으로 Network Transform 담 => 추후 대기 후 스폰 필요  
+불릿1 클라이언트가 쏘면 데미지 없음  
+아이템 ID 싱크  
+
+디렉터  
+어드레서블에셋  
+업적 체커  
+Result Recorder  
+기획 / 모델링 / 이펙트 / 사운드-?  
+캐릭터() - 몬스터 - 아이템 - 지역  
+아이템 출현 / 아이템 정보, 아이템 인터렉트, 아이템 데이터 싱크, 아이템 소유  
+
+TAB UI? 롤 탭 / 상태창 스탯  
+몬스터 / 엘리트  
+보스 연출  
+제단들 상자들  
+씬 하나로 통합??  
+설정 - 그래픽/컨트롤 설정, 해상도 초기화  
+데이터 저장 기준 Because 치터  
+네이버 가능하다면..  
+Or Steam 출시하지 않아도 된다면  
+업데이트? 어드레서블 오브젝트?  
+텔레포터? 꼭 찾아서 쓰는걸로?  
