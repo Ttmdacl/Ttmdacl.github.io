@@ -17,19 +17,19 @@ categories: ⛏️Memo
 본이 모델의 Weight 값을 받는지에 대한 유무  
 본이 움직이면 모델도 따라서 Deform 되는지  
 
-### 💎 애니메이션 키 프레임이 안보여
+### 💎 블렌더
 
 ---
 
-휠 드래그로 올려본다  
-or  
-View -> Frame All 을 선택하여 모든 키 프레임이 보이게 한다  
-
-### 💎 첫 프레임으로
-
----
-
-Shift + <-  
+- 애니메이션 키 프레임이 안보여
+  - 휠 올려보기
+  - View -> Frame All 을 선택하여 모든 키 프레임이 보이게  
+- 키 프레임 만들기 - i  
+- 포즈 리셋
+  - 포즈 모드에서 ALT R(Rotation) G(Position) S(Scale)
+  - 포즈 모드에서 Space, Clear Pose Transforms 검색
+- 첫 프레임으로
+  - Shift + <-  
 
 ### 💎 본 팔면체에서 다른 모양으로 바꾸기
 
@@ -44,12 +44,6 @@ Shift + <-
 척추는 진행방향으로 조금 기울여진다 - 중심을 잡기위해  
 발을 밟는 쪽으로도 조금 기울여진다  
 팔을 앞뒤로 뻗을 때 어깨도 같이 기울여진다  
-
-### 💎 키 프레임 만들기  
-
----
-
-i  
 
 ### 💎 IK Len
 
@@ -129,3 +123,9 @@ Pole Target
 Layer Weight, Fancing  
 매트하다  
 Specular -> 하이라이트 영역  
+
+### 💎 Mesh랑 함께 Export
+
+---
+
+Armature만 Export하니까 애니메이션 베이크 할 때 Constraints가 적용이 안된다  
