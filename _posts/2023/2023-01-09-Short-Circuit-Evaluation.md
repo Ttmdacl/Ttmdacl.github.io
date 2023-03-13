@@ -8,6 +8,8 @@ categories: ⛏️Memo 🕯️Computer
 
 ---
 
+단락 방식  
+
 [참고 - 위키피디아](https://en.wikipedia.org/wiki/Short-circuit_evaluation), [참고 - 제로니모님의 글](https://code-lab1.tistory.com/68)  
 
 대부분의 프로그래밍 언어에서는, 불 연산에 Short-Circuit Evaluation 이 적용된다.  
@@ -61,3 +63,7 @@ if (true | SomeFunc())
 
 이때, 이런 `&` 와 `|` 를 `&&` 와 `||` 에 구분지어,  
 Eager Operators (`&`, `|`) 와 Short-Circuit Operators (`&&`, `||`) 로 부를 수 있다.  
+
+---
+
+C# 튜플 비교 시, Short-Circuit Evaluation 이 적용된다.  
